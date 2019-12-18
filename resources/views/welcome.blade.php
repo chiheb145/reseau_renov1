@@ -240,7 +240,7 @@ Header
                 <div class="col-md-6 col-lg-5 offset-lg-1 wow bounceInUp" data-wow-duration="1.4s">
                     <div class="box1 row" >
                         <div class="col-5">
-                            <img src="style/img/serv3.jpg"  style="width: 251px;
+                            <img src="style/img/toit.jpg"  style="width: 251px;
                               height: 220px;
                               border-bottom-left-radius: 17px;
                               border-bottom-right-radius: 17px;">

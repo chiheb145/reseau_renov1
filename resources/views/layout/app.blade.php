@@ -1,8 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="utf-8">
     <title>Reseau Renov</title>
+
+    <!-- Google Font: Source Sans Pro -->
+    <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,700" rel="stylesheet">
+
+    <meta charset="utf-8">
+
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta content="" name="keywords">
     <meta content="" name="description">
@@ -130,7 +135,7 @@ Header
 
 </style>
 
-<section class="py-4">
+<section class="py-4" style="background-color: #ad1f79; height: 1363px;">
     @yield('content')
 </section>
 
@@ -229,6 +234,13 @@ Header
 
 <!-- Template Main Javascript File -->
 <script src="{{asset('')}}style/js/main.js"></script>
+<script
+    src="https://code.jquery.com/jquery-3.4.1.js"></script>
+<script src="{{asset('back/plugins/jquery/jquery.min.js')}}"></script>
+<!-- jQuery UI 1.11.4 -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<script src="{{asset('back/plugins/jquery-ui/jquery-ui.min.js')}}"></script>
+<!-- Resolve conflict in jQuery UI tooltip with Bootstrap tooltip -->
 
 
 
