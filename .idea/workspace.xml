@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e28f5ead-cb25-4910-bc8c-530c41c5213c" name="Default Changelist" comment="">
+<<<<<<< HEAD
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/layout/app.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layout/app.blade.php" afterDir="false" />
@@ -12,6 +13,195 @@
       <change beforePath="$PROJECT_DIR$/resources/views/service/comble.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/service/comble.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/service/isolation.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/service/isolation.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/service/toiture.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/service/toiture.blade.php" afterDir="false" />
+=======
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/ci_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/ci_10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/ci_11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/ci_12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/ci_13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/ci_14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/ci_15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/ci_16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/ci_17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/ci_18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/ci_19.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/ci_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/ci_20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/ci_21.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/ci_22.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/ci_23.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/ci_231.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/ci_24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/ci_25.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/ci_26.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/ci_27.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/ci_28.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/ci_29.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/ci_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/ci_30.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/ci_31.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/ci_32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/ci_33.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/ci_34.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/ci_35.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/ci_36.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/ci_37.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/ci_38.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/ci_39.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/ci_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/ci_40.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/ci_41.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/ci_42.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/ci_43.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/ci_44.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/ci_45.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/ci_46.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/ci_47.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/ci_48.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/ci_49.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/ci_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/ci_50.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/ci_51.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/ci_52.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/ci_53.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/ci_54.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/ci_55.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/ci_56.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/ci_57.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/ci_58.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/ci_59.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/ci_6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/ci_60.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/ci_61.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/ci_62.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/ci_63.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/ci_64.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/ci_65.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/ci_66.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/ci_67.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/ci_68.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/ci_69.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/ci_7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/ci_70.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/ci_71.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/ci_72.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/ci_73.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/ci_74.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/ci_75.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/ci_76.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/ci_8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/ci_9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/ri_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/ri_111.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/ri_2.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/ri_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/shi_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/shi_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/t0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/t1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/t10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/t11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/t12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/t13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/t14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/t15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/t16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/t17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/t18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/t19.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/t2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/t20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/t21.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/t22.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/t23.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/t24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/t25.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/t26.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/t27.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/t28.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/t29.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/t3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/t30.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/t31.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/t4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/t5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/t6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/t7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/t8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/t9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/vi_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/vi_10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/vi_11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/vi_12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/vi_13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/vi_14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/vi_15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/vi_16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/vi_17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/vi_18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/vi_19.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/vi_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/vi_20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/vi_21.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/vi_22.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/vi_23.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/vi_24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/vi_25.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/vi_26.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/vi_27.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/vi_28.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/vi_29.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/vi_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/vi_30.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/vi_31.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/vi_32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/vi_33.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/vi_34.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/vi_35.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/vi_36.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/vi_37.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/vi_38.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/vi_39.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/vi_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/vi_40.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/vi_41.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/vi_42.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/vi_43.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/vi_44.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/vi_45.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/vi_46.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/vi_47.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/vi_48.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/vi_49.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/vi_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/vi_50.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/vi_51.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/vi_52.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/vi_53.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/vi_54.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/vi_55.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/vi_56.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/vi_57.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/vi_58.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/vi_59.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/vi_6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/vi_60.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/vi_61.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/vi_62.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/vi_63.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/vi_64.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/vi_65.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/vi_66.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/vi_67.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/vi_68.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/vi_7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/vi_8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/img/vi_9.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/style/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/style/css/style.css" afterDir="false" />
+>>>>>>> 344f21b969fd7a47acd5085fa824b20ad9d11baa
       <change beforePath="$PROJECT_DIR$/resources/views/welcome.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/welcome.blade.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,9 +215,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/resources/views/welcome.blade.php">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="378">
               <caret line="253" column="30" lean-forward="true" selection-start-line="253" selection-start-column="30" selection-end-line="253" selection-end-column="30" />
               <folding>
@@ -40,11 +231,26 @@
                 <element signature="n#style#0;n#button#0;n#div#1;n#div#0;n#div#5;n#div#0;n#div#0;n#section#1;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#button#0;n#div#1;n#div#0;n#div#6;n#div#0;n#div#0;n#section#1;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#button#0;n#div#1;n#div#0;n#div#7;n#div#0;n#div#0;n#section#1;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+=======
+            <state relative-caret-position="459">
+              <caret line="200" column="66" selection-start-line="200" selection-start-column="66" selection-end-line="200" selection-end-column="66" />
+              <folding>
+                <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#div#1;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#2;n#div#1;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+>>>>>>> 344f21b969fd7a47acd5085fa824b20ad9d11baa
               </folding>
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/resources/views/service/charpente.blade.php">
           <provider selected="true" editor-type-id="text-editor">
@@ -57,6 +263,11 @@
               </folding>
             </state>
           </provider>
+=======
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Desktop/Reseau_renov/chemise_rabats/OutDocument/ri_1.png">
+          <provider selected="true" editor-type-id="images" />
+>>>>>>> 344f21b969fd7a47acd5085fa824b20ad9d11baa
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -92,6 +303,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/resources/views/service/toiture.blade.php">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="221">
               <caret line="13" column="42" selection-start-line="13" selection-start-column="42" selection-end-line="13" selection-end-column="42" />
               <folding>
@@ -100,6 +312,10 @@
                 <element signature="e#532#551#0#HTML" expanded="true" />
                 <element signature="e#1450#1469#0#HTML" expanded="true" />
               </folding>
+=======
+            <state relative-caret-position="68">
+              <caret line="4" column="32" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
+>>>>>>> 344f21b969fd7a47acd5085fa824b20ad9d11baa
             </state>
           </provider>
         </entry>
@@ -107,11 +323,16 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/resources/views/layout/app.blade.php">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="255">
               <caret line="144" column="8" lean-forward="true" selection-start-line="144" selection-start-column="8" selection-end-line="144" selection-end-column="8" />
               <folding>
                 <element signature="n#style#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
+=======
+            <state relative-caret-position="2295">
+              <caret line="135" selection-start-line="135" selection-end-line="135" />
+>>>>>>> 344f21b969fd7a47acd5085fa824b20ad9d11baa
             </state>
           </provider>
         </entry>
@@ -133,8 +354,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/style/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="10302">
-              <caret line="606" column="29" selection-start-line="606" selection-start-column="29" selection-end-line="606" selection-end-column="29" />
+            <state relative-caret-position="297">
+              <caret line="493" column="23" selection-start-line="493" selection-start-column="23" selection-end-line="493" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -174,7 +395,6 @@
       <list>
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/public/style/lib/jquery/jquery-migrate.min.js" />
-        <option value="$PROJECT_DIR$/public/style/css/style.css" />
         <option value="$PROJECT_DIR$/resources/views/service/serv1.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/toiture.blade.php" />
         <option value="$PROJECT_DIR$/resources/layout/app.blade.php" />
@@ -185,6 +405,11 @@
         <option value="$PROJECT_DIR$/resources/views/service/comble.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/service/toiture.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/service/charpente.blade.php" />
+<<<<<<< HEAD
+=======
+        <option value="$PROJECT_DIR$/public/style/css/style.css" />
+        <option value="$PROJECT_DIR$/resources/views/welcome.blade.php" />
+>>>>>>> 344f21b969fd7a47acd5085fa824b20ad9d11baa
       </list>
     </option>
   </component>
@@ -274,9 +499,15 @@
       <path value="$PROJECT_DIR$/vendor/symfony/debug" />
     </include_path>
   </component>
+<<<<<<< HEAD
   <component name="ProjectFrameBounds">
+=======
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-1602" />
+    <option name="y" value="124" />
+>>>>>>> 344f21b969fd7a47acd5085fa824b20ad9d11baa
     <option name="width" value="1600" />
-    <option name="height" value="860" />
+    <option name="height" value="747" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -289,27 +520,21 @@
         <subPane>
           <expand>
             <path>
-              <item name="reseauss" type="b2602c69:ProjectViewProjectNode" />
-              <item name="reseauss" type="462c0819:PsiDirectoryNode" />
+              <item name="reseau_renov1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="reseau_renov1" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="reseauss" type="b2602c69:ProjectViewProjectNode" />
-              <item name="reseauss" type="462c0819:PsiDirectoryNode" />
+              <item name="reseau_renov1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="reseau_renov1" type="462c0819:PsiDirectoryNode" />
               <item name="public" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="reseauss" type="b2602c69:ProjectViewProjectNode" />
-              <item name="reseauss" type="462c0819:PsiDirectoryNode" />
+              <item name="reseau_renov1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="reseau_renov1" type="462c0819:PsiDirectoryNode" />
               <item name="public" type="462c0819:PsiDirectoryNode" />
-              <item name="style" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="reseauss" type="b2602c69:ProjectViewProjectNode" />
-              <item name="reseauss" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-              <item name="style" type="462c0819:PsiDirectoryNode" />
               <item name="img" type="462c0819:PsiDirectoryNode" />
             </path>
+<<<<<<< HEAD
             <path>
               <item name="reseauss" type="b2602c69:ProjectViewProjectNode" />
               <item name="reseauss" type="462c0819:PsiDirectoryNode" />
@@ -340,6 +565,8 @@
               <item name="reseauss" type="462c0819:PsiDirectoryNode" />
               <item name="routes" type="462c0819:PsiDirectoryNode" />
             </path>
+=======
+>>>>>>> 344f21b969fd7a47acd5085fa824b20ad9d11baa
           </expand>
           <select />
         </subPane>
@@ -350,7 +577,11 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="editor.config.ad.shown" value="true" />
+<<<<<<< HEAD
     <property name="last_opened_file_path" value="$PROJECT_DIR$/public/style/img" />
+=======
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+>>>>>>> 344f21b969fd7a47acd5085fa824b20ad9d11baa
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -358,6 +589,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+<<<<<<< HEAD
+=======
+      <recent name="C:\laragon\www\reseau_renov1\public\img" />
+      <recent name="C:\laragon\www\reseauss\resources\views" />
+>>>>>>> 344f21b969fd7a47acd5085fa824b20ad9d11baa
       <recent name="C:\laragon\www\reseauss\public\style\img" />
       <recent name="C:\laragon\www\reseauss\public" />
       <recent name="C:\laragon\www\reseauss\resources\views" />
@@ -396,18 +632,30 @@
       <workItem from="1576225460567" duration="20333000" />
       <workItem from="1576482898856" duration="24278000" />
       <workItem from="1576568806578" duration="27598000" />
+<<<<<<< HEAD
       <workItem from="1576655711118" duration="23833000" />
+=======
+      <workItem from="1576655711118" duration="7004000" />
+      <workItem from="1576665138953" duration="13870000" />
+>>>>>>> 344f21b969fd7a47acd5085fa824b20ad9d11baa
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="107722000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1600" height="860" extended-state="0" />
+=======
+    <option name="totallyTimeSpent" value="104763000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1688" y="-7" width="1696" height="1026" extended-state="6" />
+>>>>>>> 344f21b969fd7a47acd5085fa824b20ad9d11baa
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2655844" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25305623" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -557,43 +805,43 @@
     <entry file="file://$PROJECT_DIR$/public/style/img/pict55.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/style/img/pict222.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/style/img/nous1.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/style/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="10302">
-          <caret line="606" column="29" selection-start-line="606" selection-start-column="29" selection-end-line="606" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/style/img/ri_1.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/service/serv1.blade.php">
+    <entry file="file://$PROJECT_DIR$/resources/views/service/serv1.blade.php" />
+    <entry file="file://$PROJECT_DIR$/resources/views/toiture.blade.php" />
+    <entry file="file://$PROJECT_DIR$/resources/layout/app.blade.php" />
+    <entry file="file://$PROJECT_DIR$/resources/views/service/charpente.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        <state relative-caret-position="102">
+          <caret line="6" column="44" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/toiture.blade.php">
+    <entry file="file://$PROJECT_DIR$/resources/views/service/comble.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="20" selection-start-column="17" selection-end-column="20" />
+        <state relative-caret-position="102">
+          <caret line="6" column="45" selection-start-line="6" selection-start-column="45" selection-end-line="6" selection-end-column="45" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/layout/app.blade.php">
+    <entry file="file://$PROJECT_DIR$/resources/views/service/isolation.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="138" column="20" lean-forward="true" selection-start-line="138" selection-start-column="20" selection-end-line="138" selection-end-column="20" />
+        <state relative-caret-position="102">
+          <caret line="6" column="34" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
+=======
+    <entry file="file://$PROJECT_DIR$/resources/views/layout/app.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2295">
+          <caret line="135" selection-start-line="135" selection-end-line="135" />
+        </state>
+      </provider>
+    </entry>
+>>>>>>> 344f21b969fd7a47acd5085fa824b20ad9d11baa
     <entry file="file://$PROJECT_DIR$/routes/web.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
@@ -601,6 +849,7 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/public/style/img/toit.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -624,9 +873,17 @@
           </folding>
         </state>
       </provider>
+=======
+    <entry file="file://$PROJECT_DIR$/public/style/img/pict222.png">
+      <provider selected="true" editor-type-id="images" />
+>>>>>>> 344f21b969fd7a47acd5085fa824b20ad9d11baa
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/service/isolation.blade.php">
+    <entry file="file://$PROJECT_DIR$/public/style/img/nous1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/service/toiture.blade.php">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="153">
           <caret line="9" column="100" selection-start-line="9" selection-start-column="100" selection-end-line="9" selection-end-column="100" />
           <folding>
@@ -657,10 +914,42 @@
           <caret line="144" column="8" lean-forward="true" selection-start-line="144" selection-start-column="8" selection-end-line="144" selection-end-column="8" />
           <folding>
             <element signature="n#style#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+=======
+        <state relative-caret-position="68">
+          <caret line="4" column="32" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/style/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="493" column="23" selection-start-line="493" selection-start-column="23" selection-end-line="493" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/Reseau_renov/chemise_rabats/OutDocument/ri_1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/welcome.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="200" column="66" selection-start-line="200" selection-start-column="66" selection-end-line="200" selection-end-column="66" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#1;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#2;n#div#1;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+>>>>>>> 344f21b969fd7a47acd5085fa824b20ad9d11baa
           </folding>
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/resources/views/service/toiture.blade.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
@@ -686,5 +975,7 @@
         </state>
       </provider>
     </entry>
+=======
+>>>>>>> 344f21b969fd7a47acd5085fa824b20ad9d11baa
   </component>
 </project>

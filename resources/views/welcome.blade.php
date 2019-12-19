@@ -125,6 +125,43 @@ Header
         border-bottom-right-radius: 852px 55px;
         border-bottom-left-radius: 501px 54px;
     }
+    .p_header{
+        color: white;
+    }
+    .header_img_people{
+        border-bottom-left-radius: 750px 100px;
+        border-bottom-right-radius: 750px 100px;
+        border-top-left-radius: 750px 100px;
+        border-top-right-radius: 750px 100px;
+        width: 100%;
+    }
+    .reseau_renov_rose{
+        background-color: #c11b6e;
+    }
+    .reseau_renov_blanc{
+        background-color: #ffffff;
+    }
+    .span1{
+        color:#157dbd;
+        font-weight: bold;
+    }
+    .span2{
+        color:#c11b6e;
+        font-size: 30px;
+        font-weight: bold
+    }
+    .span3{
+        font-weight: bold;
+        color: #157dbd;
+        font-size: 30px
+    }
+    .reseau_renov_bleu{
+        background-color:#157dbd ;
+    }
+    .reseau_renov_radius1{
+        border-bottom-left-radius: 750px 100px;
+        border-bottom-right-radius: 750px 100px;
+    }
 
 
 
@@ -132,26 +169,90 @@ Header
 <section id="accueil" class="">
 
 <div class="container-fluid">
-        <div class="row">
-            <div class="intro2" style="
-               background-image: url(http://reseauss.test/style/img/ri_1.png);
-    background-repeat: no-repeat;
-    /* background-attachment: fixed; */
-    background-position: -2724% 12%;
-    padding-left: 0px;
-    height: 1000px;
-    width: auto;">
-                <img src="style/img/ci_19.png"  alt="" style="width: 100%;
-    padding-top: 5px;
-    height: 191px;
-    margin-right: 609px;">
+        <div class="row reseau_renov_rose "  >
+            <div class="col-lg-6">
+                <div class="row reseau_renov_blanc" >
+                    <div class="col-lg-2 reseau_renov_blanc" >
+                        <div class="row">
+                            <img src="{{asset('img/qualibat.png')}}" style="width: 100%;margin-top: 200px"  >
+                        </div>
+                        <div class="row">
+                            <img src="{{asset('img/rockwool.png')}}" style="width: 100%;margin-top: 50px"  >
+                        </div>
 
-                <img src="style/img/ci_2.png"  alt="" style="padding-top: 337px;
-    padding-left: 107px;
-    width: 109%;
-   height: 819px;">
+                    </div>
+                    <div class="col-lg-10 reseau_renov_blanc" >
+                        <div class="row reseau_renov_bleu" style="height:70px;">
+
+                        </div>
+                        <div class="row">
+                            <img src="{{asset('style/img/pict222.png')}}" style="width: 100%"  >
+                        </div>
+                        <div class="row reseau_renov_bleu reseau_renov_radius1" style="height: 50px; ">
+
+                        </div>
+
+
+                    </div>
+                </div>
+                <div class="row reseau_renov_blanc reseau_renov_radius1" >
+                    <div class="col-lg-3 offset-lg-3 mb-5 text-center">
+                        <img src="style/img/logo11.png" width="150px" alt="" >
+                        <span class="span1" style="font-size: 10px;font-weight: bold">Sublimons votre maison!</span>
+                    </div>
+                    <div class="col-lg-6">
+                        <div class="row mt-5">
+                            <span class="span1" >8 rue du Faubourg Poissonnière - 75010 PARIS </span>
+                        </div>
+                        <div class="row">
+                            <span class="span2" >Tél. 05 49 13 09 92</span>
+                        </div>
+                        <div class="row">
+                          <span class="span3" >Port. 06 31 99 17 39</span>
+                        </div>
+
+                    </div>
+                </div>
+                <div class="row reseau_renov_rose" style="height: 200px;">
+
+                </div>
+
+
+
 
             </div>
+            <div class="col-lg-6 reseau_renov_blanc " >
+                <div class="row reseau_renov_blanc" >
+                    <div class="col-lg-12 mt-5 text-center">
+                        <img src="style/img/logo11.png" width="200px" alt="" >
+                    </div>
+                    <div class="col-lg-12 mb-5 text-center">
+                        <span class="span1">Sublimons votre maison!</span>
+                    </div>
+
+
+
+                </div>
+                <div class="row">
+                    <img src="{{asset('img/ri_11.png')}}" class="header_img_people"  >
+                </div>
+               <div class="row reseau_renov_bleu" style="margin-top: -55px">
+                   <div class="col-lg-6 offset-lg-3 text-center " style="margin-top: 80px" >
+                       <p class="p_header">Peinture intérieur extérieur | Façade Charpente | Couverture | Isolation | Ventilation Tout traitement (bois, charpente, couverture…) Électricité générale | Énergie renouvelable
+                       </p>
+                   </div>
+               </div>
+
+
+
+
+            </div>
+
+
+
+
+            </div>
+
 
         </div>
     </div>

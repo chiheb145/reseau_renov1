@@ -44,18 +44,35 @@
 
                 </div>
 
-
+                <br>
+                <br>
                 <ul><li> Sondage-Buchage :</li>
                 </ul>
                     <p> Cette  opération  permet  de  vérifier  avec  précision  la  résistance  mécanique  des  pièces  de  bois   de  votre  charpente .  Après  cette  opération  nous  pouvons    être  amenés  à  vous  conseiller  de  renforcer  ou  de  remplacer  certaines pièces.</p>
+                <br>
+                <br>
                 <ul><li>  Traitement  interne :</li>
                 </ul>
                     <p> Après  mise  en  place  d’ injecteurs   adaptés   , nous  effectuerons  un  traitement   à  l’intérieur  du  bois  grâce  à  notre  matériel  à pression  approprié  et un produit  professionnel   d’efficacité  prouvée.</p>
+                <br>
+                <br>
                 <ul><li>  Traitement externe :</li>
                 </ul>
                     <p>  Le traitement   de   surface   consiste  en  une   pulvérisation  en  2  couches, pour  atteindre   les larves   se  trouvant   à  proximité  de  la  surface  et  pour  créer  une  barrière  s’opposant  à  toute  ré infestation. </p>
 
 
+
+
+                 <br>
+                 <br>
+                 <br>
+                 <br>
+                 <br>
+                 <br>
+                 <br>
+                 <br>
+                 <br>
+                 <br>
 
 
 
