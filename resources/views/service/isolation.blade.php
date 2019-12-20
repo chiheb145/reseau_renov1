@@ -1,69 +1,86 @@
 @extends('layout.app')
 @section('content')
 
-    <div class="container" style="background-color: white;">
+    <div class="container" style="background-color: white;   padding-top: 198px;">
         <div class="row">
             <!-- Section Heading -->
             <div class="col-12">
                 <div class="text-center" style="">
-                    <h2>toiture</h2><br><br>
-                    <b style="color: #ad1f79; font-size: 30px; width:50px">Traitement de Toiture</b>
-                    <br><h2>Nettoyage-protections</h2>
+
+                    <b style="color: #ad1f79; font-size: 30px; width:50px">ISOLATION TOITURE</b><br>
+                    <b style="color: #004a99; font-size: 20px; width:50px">ISOLANT MINCE PAR RÉFLEXION</b>
+
                 </div>
                 <br>
                 <div class="row">
-                    <div class="col-6">
-                        <img src="{{asset("style/img/toit.jpg")}}" style="width: 90%;border-bottom-left-radius: 15px;border-bottom-right-radius:15px;">
+                    <div class="col-3 offset-1">
+                        <img src="{{asset("style/img/mince.jpg")}}" style="width: 112%;
+    border-bottom-left-radius: 15px;
+    /* border-bottom-right-radius: 15px; */
+    height: 214px;
+    margin-top: 0px;
+    padding-top: 23px;">
                     </div>
-                    <div class="col-3"><br>
-                        <br>
-                        <p>Une toiture mal entretenue , c'est le risque de rencontrer des problèmes sérieux de manière prématurée.</p>
-                        <p>Un nettoyage efficace permet de conserver sa toiture de 40 à 60 ans.</p>
+                    <div class="col-3">
+                        <img src="{{asset("style/img/iso1.jpg")}}" style="width: 112%;
+    /* border-bottom-left-radius: 15px; */
+    /* border-bottom-right-radius: 15px; */
+    padding-right: -16px;
+    margin-top: 23px;
+    height: 191px;">
+                    </div>
+                    <div class="col-3">
+                        <img src="{{asset("style/img/iso2.gif")}}" style="width: 90%;
+    /* border-bottom-left-radius: 15px; */
+    border-bottom-right-radius: 15px;
+    padding-top: 23px;
+    padding-left: -18px;
+    height: 214px;">
                     </div>
 
                 </div>
-                <div class="row">
-                    <div class="col-6">
-                        <br>
-                        <br>
-                        <br>
-                        <p>Un nettoyage efficace permet de conserver sa toiture de 40 à 60 ans.</p>
-                        <p>Un traitement adéquat est la clé de votre tranquilité:
-                            <br></p>
-                    </div>
-                    <div class="col-4">
-                        <img src="{{asset("style/img/toit2.jpg")}}" style="width: 90%;border-bottom-left-radius: 15px;border-bottom-right-radius:15px;"  >
-                    </div>
-
-                </div>
-                <br>
-                <br>
-                <div class="section-heading text-center">
-                    <h2><b>Les différents hydrofuges pour toiture</b></h2><br>
-
-                </div>
-                <p>Un traitement hydrofuge toiture imprègne les matériaux poreux et les protège en profondeur,durablement.</p>
-                <p>Il existe toutefois deux types de traitements hydrofuge toiture: les traitements incolorés ou colorés.</p>
-
-
-                <ul> <p><b>Les avantages des hydrofuges colorés ou incolorés sont nombreux :</b> <br></p></ul>
-
-                <ul><li>Hydrofuge : réduit le degré d'absorption d'eau du support.</li>
-                    <li>Fongicide:freine l'apparition des végétaux.</li>
-                    <li>Durcisseur: Permet le durcissement de la surface et donc l'augmentation de la résistance à l'usure et à l'abrasion </li>
-                    <li>Prolonge la durée de vie de votre toit. </li>
-                    <li>Ne crée pas de film en surface. </li>
-                    <li>Prévient les risques de décollement ou de fissuration. </li>
-                    <li>Colore en profondeur, pour une longue tenue de la couleur. </li>
-                    <li>S'applique sur support sec ou légèrement humide. </li>
-                    <li>Laisse respirer le support. </li>
+                  <br>
+                  <br>
+                <ul><li><b>Un isolant 2 en 1 :</b> </li>
                 </ul>
+                <p>Avec l'isolant mince réflecteur , il suffit d'un seul produit et d'une seule opération pour traiter à la fois l'isolation et l'étanchéité.</p>
+                <p>Il permet suivant l’application d’économiser la pose d’un parevapeur,d’un écran de sous-toiture ou  d’un écran pare-pluie.</p>
+                 <br>
+                <ul><li><b>PERFORMANCE MAXIMALE DANS UN MINIMUM D'ÉPAISSEUR :</b> </li>
+                </ul>
+                <p>L’épaisseur est de 35 mm environ.</p>
+                <br>
+                <ul><li><b>UN ISOLANT CERTIFIÉ :</b> </li>
+                </ul>
+                <br>
+                <p>La performance est certifiée par un organisme de certification accrédité.</p>
+                <p>(avis technique BM  TRADA  Certification  n° BIPS-0105).</p>
+             <div class="row">
+                 <div class="col-3 offset-3 ">
+                     <img src="{{asset("style/img/iso77.jpg")}}" style="height: 318px;
+    width: 293px;
+    margin-top: 0px;
+    padding-top: 68px;">
 
+                 </div>
 
+                 <div class="col-3  ">
+
+                     <img src="{{asset("style/img/iso44.jpg")}}" style="height: 347px;
+    width: 302px;
+    padding-top: 97px;
+    margin-top: -29px;">
+
+                 </div>
+
+             </div>
 
             </div>
+
         </div>
+
     </div>
+
 
 
 @endsection

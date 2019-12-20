@@ -69,7 +69,7 @@ Header
 
         <nav class="main-nav float-right d-none d-lg-block">
             <ul>
-                <li class="active"><a href="#accueil">Accueil</a></li>
+                <li class="active"><a href="{{asset('/')}}">Accueil</a></li>
                 <li><a href="#about">Qui Sommes-Nous</a></li>
                 <li><a href="#services">Services</a></li>
                 <li><a href="#portfolio">Portfolio</a></li>
