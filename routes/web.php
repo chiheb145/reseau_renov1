@@ -40,6 +40,12 @@ Route::get('/thermique',function (){
 Route::get('/ventilation',function (){
     return view('service.ventilation');
 });
+Route::get('/ecran',function (){
+    return view('service.ecran');
+});
+Route::get('/radiateur',function (){
+    return view('service.radiateur');
+});
 
 Route::post('send_mail',['as' => 'send_mail' , 'uses' => 'front\SendController@send_mail']);
 
