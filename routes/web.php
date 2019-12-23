@@ -40,3 +40,6 @@ Route::get('/thermique',function (){
 Route::get('/ventilation',function (){
     return view('service.ventilation');
 });
+
+Route::post('send_mail',['as' => 'send_mail' , 'uses' => 'front\SendController@send_mail']);
+
