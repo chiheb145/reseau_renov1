@@ -291,10 +291,10 @@ Header
     <!--==========================
       About Us Section
     ============================-->
-    <section id="about " >
-        <div class="container ">
+    <section id="about"  class="mt-5">
+        <div class="container">
             <header class="section-header mb-5">
-                <h2 class="title">Qui Sommes-Nous</h2>
+                <h2 class="title" style="padding-top: 50px;">Qui Sommes-Nous</h2>
             </header>
 
             <div class="row reseau_renov_rose reseau_renov_radius1" style="">
@@ -451,15 +451,17 @@ Header
     <!--==========================
       Services Section
     ============================-->
-    <section id="services" class="section-bg">
+
+    <section id="services" class="section-bg reseau_renov_radius1" style="padding-top: 0px">
         <div class="container-fluid">
 
-            <header class="section-header">
-                <h3>Services</h3>
-                <p></p>
-            </header>
 
-            <div class="row">
+
+            <div class="row reseau_renov_radius1 justify-content-center " style="height: 120px ;background-color: #cdcdd3">
+                <h2 class="title" style="padding-top: 50px;font-size: 40px;font-weight: bold;">Services</h2>
+            </div>
+
+            <div class="row mt-5">
 
                 <div class="col-md-6 col-lg-5 offset-lg-1 wow bounceInUp" data-wow-duration="1.4s">
                     <div class="box1 row">
@@ -549,7 +551,7 @@ Header
                     </div>
                 </div>
 
-                <div class="col-md-6 col-lg-5 offset-lg-1 wow bounceInUp" data-wow-delay="0.2s"
+                <div class="col-md-6 col-lg-5 offset-lg-1 wow bounceInUp" data-wow-delay="1s"
                      data-wow-duration="1.4s">
                     <div class="box5 row">
                         <div class="col-5">
@@ -568,7 +570,7 @@ Header
                         </div>
                     </div>
                 </div>
-                <div class="col-md-6 col-lg-5 wow bounceInUp" data-wow-delay="0.2s" data-wow-duration="1.4s">
+                <div class="col-md-6 col-lg-5 wow bounceInUp" data-wow-delay="1s" data-wow-duration="1.4s">
                     <div class="box6 row">
                         <div class="col-5">
                             <img src="style/img/serv7.jpg" style="width: 251px;
@@ -624,83 +626,7 @@ Header
         </div>
     </section><!-- #services -->
 
-    <!--==========================
-      Why Us Section
-    ============================-->
-    <section id="why-us" class="wow fadeIn">
-        <div class="container">
-            <header class="section-header">
-                <h3>Why choose us?</h3>
-                <p>Laudem latine persequeris id sed, ex fabulas delectus quo. No vel partiendo abhorreant
-                    vituperatoribus.</p>
-            </header>
 
-            <div class="row row-eq-height justify-content-center">
-
-                <div class="col-lg-4 mb-4">
-                    <div class="card wow bounceInUp">
-                        <i class="fa fa-diamond"></i>
-                        <div class="card-body">
-                            <h5 class="card-title">Corporis dolorem</h5>
-                            <p class="card-text">Deleniti optio et nisi dolorem debitis. Aliquam nobis est temporibus
-                                sunt ab inventore officiis aut voluptatibus.</p>
-                            <a href="#" class="readmore">Read more </a>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-lg-4 mb-4">
-                    <div class="card wow bounceInUp">
-                        <i class="fa fa-language"></i>
-                        <div class="card-body">
-                            <h5 class="card-title">Voluptates dolores</h5>
-                            <p class="card-text">Voluptates nihil et quis omnis et eaque omnis sint aut. Ducimus dolorum
-                                aspernatur.</p>
-                            <a href="#" class="readmore">Read more </a>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-lg-4 mb-4">
-                    <div class="card wow bounceInUp">
-                        <i class="fa fa-object-group"></i>
-                        <div class="card-body">
-                            <h5 class="card-title">Eum ut aspernatur</h5>
-                            <p class="card-text">Autem quod nesciunt eos ea aut amet laboriosam ab. Eos quis porro in
-                                non nemo ex. </p>
-                            <a href="#" class="readmore">Read more </a>
-                        </div>
-                    </div>
-                </div>
-
-            </div>
-
-            <div class="row counters">
-
-                <div class="col-lg-3 col-6 text-center">
-                    <span data-toggle="counter-up">274</span>
-                    <p>Clients</p>
-                </div>
-
-                <div class="col-lg-3 col-6 text-center">
-                    <span data-toggle="counter-up">421</span>
-                    <p>Projects</p>
-                </div>
-
-                <div class="col-lg-3 col-6 text-center">
-                    <span data-toggle="counter-up">1,364</span>
-                    <p>Hours Of Support</p>
-                </div>
-
-                <div class="col-lg-3 col-6 text-center">
-                    <span data-toggle="counter-up">18</span>
-                    <p>Hard Workers</p>
-                </div>
-
-            </div>
-
-        </div>
-    </section>
 
     <!--==========================
       Portfolio Section
@@ -709,30 +635,30 @@ Header
         <div class="container">
 
             <header class="section-header">
-                <h3 class="section-title">Our Portfolio</h3>
+                <h2 class="title" style="padding-top: 50px;font-size: 40px;font-weight: bold;">Partenaire</h2>
             </header>
 
             <div class="row">
                 <div class="col-lg-12">
                     <ul id="portfolio-flters">
                         <li data-filter="*" class="filter-active">All</li>
-                        <li data-filter=".filter-app">App</li>
-                        <li data-filter=".filter-card">Card</li>
-                        <li data-filter=".filter-web">Web</li>
+                        <li data-filter=".filter-rockwool">Rockwool</li>
+                        <li data-filter=".filter-NF">NF</li>
+                        <li data-filter=".filter-PRB">PRB</li>
                     </ul>
                 </div>
             </div>
 
             <div class="row portfolio-container">
 
-                <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+                <div class="col-lg-4 col-md-6 portfolio-item filter-rockwool">
                     <div class="portfolio-wrap">
-                        <img src="style/img/portfolio/app1.jpg" class="img-fluid" alt="">
+                        <img src="img/galerie_rockwool2.jpg" class="img-fluid" alt="">
                         <div class="portfolio-info">
                             <h4><a href="#">App 1</a></h4>
                             <p>App</p>
                             <div>
-                                <a href="style/img/portfolio/app1.jpg" data-lightbox="portfolio" data-title="App 1"
+                                <a href="img/galerie_rockwool2.jpg" data-lightbox="portfolio" data-title="App 1"
                                    class="link-preview" title="Preview"><i class="ion ion-eye"></i></a>
                                 <a href="#" class="link-details" title="More Details"><i
                                             class="ion ion-android-open"></i></a>
@@ -741,78 +667,14 @@ Header
                     </div>
                 </div>
 
-                <div class="col-lg-4 col-md-6 portfolio-item filter-web" data-wow-delay="0.1s">
+                <div class="col-lg-4 col-md-6 portfolio-item filter-rockwool" data-wow-delay="1s">
                     <div class="portfolio-wrap">
-                        <img src="style/img/portfolio/web3.jpg" class="img-fluid" alt="">
-                        <div class="portfolio-info">
-                            <h4><a href="#">Web 3</a></h4>
-                            <p>Web</p>
-                            <div>
-                                <a href="style/img/portfolio/web3.jpg" class="link-preview" data-lightbox="portfolio"
-                                   data-title="Web 3" title="Preview"><i class="ion ion-eye"></i></a>
-                                <a href="#" class="link-details" title="More Details"><i
-                                            class="ion ion-android-open"></i></a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-lg-4 col-md-6 portfolio-item filter-app" data-wow-delay="0.2s">
-                    <div class="portfolio-wrap">
-                        <img src="style/img/portfolio/app2.jpg" class="img-fluid" alt="">
-                        <div class="portfolio-info">
-                            <h4><a href="#">App 2</a></h4>
-                            <p>App</p>
-                            <div>
-                                <a href="style/img/portfolio/app2.jpg" class="link-preview" data-lightbox="portfolio"
-                                   data-title="App 2" title="Preview"><i class="ion ion-eye"></i></a>
-                                <a href="#" class="link-details" title="More Details"><i
-                                            class="ion ion-android-open"></i></a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-                    <div class="portfolio-wrap">
-                        <img src="style/img/portfolio/card2.jpg" class="img-fluid" alt="">
-                        <div class="portfolio-info">
-                            <h4><a href="#">Card 2</a></h4>
-                            <p>Card</p>
-                            <div>
-                                <a href="style/img/portfolio/card2.jpg" class="link-preview" data-lightbox="portfolio"
-                                   data-title="Card 2" title="Preview"><i class="ion ion-eye"></i></a>
-                                <a href="#" class="link-details" title="More Details"><i
-                                            class="ion ion-android-open"></i></a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-lg-4 col-md-6 portfolio-item filter-web" data-wow-delay="0.1s">
-                    <div class="portfolio-wrap">
-                        <img src="style/img/portfolio/web2.jpg" class="img-fluid" alt="">
-                        <div class="portfolio-info">
-                            <h4><a href="#">Web 2</a></h4>
-                            <p>Web</p>
-                            <div>
-                                <a href="style/img/portfolio/web2.jpg" class="link-preview" data-lightbox="portfolio"
-                                   data-title="Web 2" title="Preview"><i class="ion ion-eye"></i></a>
-                                <a href="#" class="link-details" title="More Details"><i
-                                            class="ion ion-android-open"></i></a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-lg-4 col-md-6 portfolio-item filter-app" data-wow-delay="0.2s">
-                    <div class="portfolio-wrap">
-                        <img src="style/img/portfolio/app3.jpg" class="img-fluid" alt="">
+                        <img src="img/galerie_rockwool.jpg" class="img-fluid" alt="">
                         <div class="portfolio-info">
                             <h4><a href="#">App 3</a></h4>
                             <p>App</p>
                             <div>
-                                <a href="style/img/portfolio/app3.jpg" class="link-preview" data-lightbox="portfolio"
+                                <a href="img/galerie_rockwool.jpg" class="link-preview" data-lightbox="portfolio"
                                    data-title="App 3" title="Preview"><i class="ion ion-eye"></i></a>
                                 <a href="#" class="link-details" title="More Details"><i
                                             class="ion ion-android-open"></i></a>
@@ -821,14 +683,62 @@ Header
                     </div>
                 </div>
 
-                <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+                <div class="col-lg-4 col-md-6 portfolio-item filter-rockwool" data-wow-delay="1s">
                     <div class="portfolio-wrap">
-                        <img src="style/img/portfolio/card1.jpg" class="img-fluid" alt="">
+                        <img src="img/galerie_rockwool3.jpg" class="img-fluid" alt="">
+                        <div class="portfolio-info">
+                            <h4><a href="#">app 3</a></h4>
+                            <p>app</p>
+                            <div>
+                                <a href="img/galerie_rockwool3.jpg" class="link-preview" data-lightbox="portfolio"
+                                   data-title="Web 3" title="Preview"><i class="ion ion-eye"></i></a>
+                                <a href="#" class="link-details" title="More Details"><i
+                                            class="ion ion-android-open"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6 portfolio-item filter-rockwool" data-wow-delay="1s">
+                    <div class="portfolio-wrap">
+                        <img src="img/galerie_rockwool4.jpg" class="img-fluid" alt="">
+                        <div class="portfolio-info">
+                            <h4><a href="#">App 2</a></h4>
+                            <p>App</p>
+                            <div>
+                                <a href="img/galerie_rockwool4.jpg" class="link-preview" data-lightbox="portfolio"
+                                   data-title="App 2" title="Preview"><i class="ion ion-eye"></i></a>
+                                <a href="#" class="link-details" title="More Details"><i
+                                            class="ion ion-android-open"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6 portfolio-item filter-NF" data-wow-delay="1s">
+                    <div class="portfolio-wrap">
+                        <img src="img/galerie_nf1.jpg" class="img-fluid" alt="">
+                        <div class="portfolio-info">
+                            <h4><a href="#">Card 2</a></h4>
+                            <p>Card</p>
+                            <div>
+                                <a href="img/galerie_nf1.jpg" class="link-preview" data-lightbox="portfolio"
+                                   data-title="Card 2" title="Preview"><i class="ion ion-eye"></i></a>
+                                <a href="#" class="link-details" title="More Details"><i
+                                            class="ion ion-android-open"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6 portfolio-item filter-NF" data-wow-delay="1s">
+                    <div class="portfolio-wrap">
+                        <img src="img/galerie_nf2.jpg" class="img-fluid" alt="">
                         <div class="portfolio-info">
                             <h4><a href="#">Card 1</a></h4>
                             <p>Card</p>
                             <div>
-                                <a href="style/img/portfolio/card1.jpg" class="link-preview" data-lightbox="portfolio"
+                                <a href="img/galerie_nf2.jpg" class="link-preview" data-lightbox="portfolio"
                                    data-title="Card 1" title="Preview"><i class="ion ion-eye"></i></a>
                                 <a href="#" class="link-details" title="More Details"><i
                                             class="ion ion-android-open"></i></a>
@@ -837,14 +747,14 @@ Header
                     </div>
                 </div>
 
-                <div class="col-lg-4 col-md-6 portfolio-item filter-card" data-wow-delay="0.1s">
+                <div class="col-lg-4 col-md-6 portfolio-item filter-NF" data-wow-delay="1s">
                     <div class="portfolio-wrap">
-                        <img src="style/img/portfolio/card3.jpg" class="img-fluid" alt="">
+                        <img src="img/galerie_nf3.jpg" class="img-fluid" alt="">
                         <div class="portfolio-info">
                             <h4><a href="#">Card 3</a></h4>
                             <p>Card</p>
                             <div>
-                                <a href="style/img/portfolio/card3.jpg" class="link-preview" data-lightbox="portfolio"
+                                <a href="img/galerie_nf3.jpg" class="link-preview" data-lightbox="portfolio"
                                    data-title="Card 3" title="Preview"><i class="ion ion-eye"></i></a>
                                 <a href="#" class="link-details" title="More Details"><i
                                             class="ion ion-android-open"></i></a>
@@ -853,14 +763,78 @@ Header
                     </div>
                 </div>
 
-                <div class="col-lg-4 col-md-6 portfolio-item filter-web" data-wow-delay="0.2s">
+                <div class="col-lg-4 col-md-6 portfolio-item filter-PRB" data-wow-delay="1s">
                     <div class="portfolio-wrap">
-                        <img src="style/img/portfolio/web1.jpg" class="img-fluid" alt="">
+                        <img src="img/galerie_rpp1.jpg" class="img-fluid" alt="">
+                        <div class="portfolio-info">
+                            <h4><a href="#">Web 2</a></h4>
+                            <p>Web</p>
+                            <div>
+                                <a href="img/galerie_rpp1.jpg" class="link-preview" data-lightbox="portfolio"
+                                   data-title="Web 2" title="Preview"><i class="ion ion-eye"></i></a>
+                                <a href="#" class="link-details" title="More Details"><i
+                                            class="ion ion-android-open"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6 portfolio-item filter-PRB" data-wow-delay="1s">
+                    <div class="portfolio-wrap">
+                        <img src="img/galerie_prb1.jpg" class="img-fluid" alt="">
                         <div class="portfolio-info">
                             <h4><a href="#">Web 1</a></h4>
                             <p>Web</p>
                             <div>
-                                <a href="style/img/portfolio/web1.jpg" class="link-preview" data-lightbox="portfolio"
+                                <a href="img/galerie_prb1.jpg" class="link-preview" data-lightbox="portfolio"
+                                   data-title="Web 1" title="Preview"><i class="ion ion-eye"></i></a>
+                                <a href="#" class="link-details" title="More Details"><i
+                                            class="ion ion-android-open"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6 portfolio-item filter-PRB" data-wow-delay="1s">
+                    <div class="portfolio-wrap">
+                        <img src="img/galerie_prb2.jpg" class="img-fluid" alt="">
+                        <div class="portfolio-info">
+                            <h4><a href="#">Web 1</a></h4>
+                            <p>Web</p>
+                            <div>
+                                <a href="img/galerie_prb2.jpg" class="link-preview" data-lightbox="portfolio"
+                                   data-title="Web 1" title="Preview"><i class="ion ion-eye"></i></a>
+                                <a href="#" class="link-details" title="More Details"><i
+                                            class="ion ion-android-open"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6 portfolio-item filter-PRB" data-wow-delay="1s">
+                    <div class="portfolio-wrap">
+                        <img src="img/galerie_prb3.jpg" class="img-fluid" alt="">
+                        <div class="portfolio-info">
+                            <h4><a href="#">Web 1</a></h4>
+                            <p>Web</p>
+                            <div>
+                                <a href="img/galerie_prb3.jpg" class="link-preview" data-lightbox="portfolio"
+                                   data-title="Web 1" title="Preview"><i class="ion ion-eye"></i></a>
+                                <a href="#" class="link-details" title="More Details"><i
+                                            class="ion ion-android-open"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6 portfolio-item filter-PRB" data-wow-delay="1s">
+                    <div class="portfolio-wrap">
+                        <img src="img/galerie_prb4.jpg" class="img-fluid" alt="">
+                        <div class="portfolio-info">
+                            <h4><a href="#">Web 1</a></h4>
+                            <p>Web</p>
+                            <div>
+                                <a href="img/galerie_prb4.jpg" class="link-preview" data-lightbox="portfolio"
                                    data-title="Web 1" title="Preview"><i class="ion ion-eye"></i></a>
                                 <a href="#" class="link-details" title="More Details"><i
                                             class="ion ion-android-open"></i></a>
@@ -874,83 +848,7 @@ Header
         </div>
     </section><!-- #portfolio -->
 
-    <!--==========================
-      Clients Section
-    ============================-->
-    <section id="testimonials" class="section-bg">
-        <div class="container">
 
-            <header class="section-header">
-                <h3>Testimonials</h3>
-            </header>
-
-            <div class="row justify-content-center">
-                <div class="col-lg-8">
-
-                    <div class="owl-carousel testimonials-carousel wow fadeInUp">
-
-                        <div class="testimonial-item">
-                            <img src="style/img/testimonial-1.jpg" class="testimonial-img" alt="">
-                            <h3>Saul Goodman</h3>
-                            <h4>Ceo &amp; Founder</h4>
-                            <p>
-                                Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit
-                                rhoncus. Accusantium quam, ultricies eget id, aliquam eget nibh et. Maecen aliquam,
-                                risus at semper.
-                            </p>
-                        </div>
-
-                        <div class="testimonial-item">
-                            <img src="style/img/testimonial-2.jpg" class="testimonial-img" alt="">
-                            <h3>Sara Wilsson</h3>
-                            <h4>Designer</h4>
-                            <p>
-                                Export tempor illum tamen malis malis eram quae irure esse labore quem cillum quid
-                                cillum eram malis quorum velit fore eram velit sunt aliqua noster fugiat irure amet
-                                legam anim culpa.
-                            </p>
-                        </div>
-
-                        <div class="testimonial-item">
-                            <img src="style/img/testimonial-3.jpg" class="testimonial-img" alt="">
-                            <h3>Jena Karlis</h3>
-                            <h4>Store Owner</h4>
-                            <p>
-                                Enim nisi quem export duis labore cillum quae magna enim sint quorum nulla quem veniam
-                                duis minim tempor labore quem eram duis noster aute amet eram fore quis sint minim.
-                            </p>
-                        </div>
-
-                        <div class="testimonial-item">
-                            <img src="style/img/testimonial-4.jpg" class="testimonial-img" alt="">
-                            <h3>Matt Brandon</h3>
-                            <h4>Freelancer</h4>
-                            <p>
-                                Fugiat enim eram quae cillum dolore dolor amet nulla culpa multos export minim fugiat
-                                minim velit minim dolor enim duis veniam ipsum anim magna sunt elit fore quem dolore
-                                labore illum veniam.
-                            </p>
-                        </div>
-
-                        <div class="testimonial-item">
-                            <img src="style/img/testimonial-5.jpg" class="testimonial-img" alt="">
-                            <h3>John Larson</h3>
-                            <h4>Entrepreneur</h4>
-                            <p>
-                                Quis quorum aliqua sint quem legam fore sunt eram irure aliqua veniam tempor noster
-                                veniam enim culpa labore duis sunt culpa nulla illum cillum fugiat legam esse veniam
-                                culpa fore nisi cillum quid.
-                            </p>
-                        </div>
-
-                    </div>
-
-                </div>
-            </div>
-
-
-        </div>
-    </section><!-- #testimonials -->
 
     <!--==========================
       Team Section
@@ -1002,7 +900,7 @@ Header
                     </div>
                 </div>
 
-                <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
+                <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="1s">
                     <div class="member">
                         <img src="style/img/team-3.jpg" class="img-fluid" alt="">
                         <div class="member-info">
