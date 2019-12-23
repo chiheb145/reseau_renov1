@@ -135,7 +135,7 @@ Header
 
 </style>
 
-<section class="py-4" style="background-color: #ad1f79; height: 1363px;">
+<section class="py-4" style="background-color: #004a99; height: 1363px;">
     @yield('content')
 </section>
 
