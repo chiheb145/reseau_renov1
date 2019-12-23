@@ -1,6 +1,6 @@
 @extends('layout.app')
 @section('content')
-    <div class="container" style="background-color: white; padding-top: 57px;">
+    <div class="container" style="background-color: #cbcfda; padding-top: 57px;">
         <div class="row">
             <!-- Section Heading -->
             <div class="col-12">

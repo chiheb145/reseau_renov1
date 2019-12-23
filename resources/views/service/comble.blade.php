@@ -1,7 +1,8 @@
 @extends('layout.app')
 @section('content')
 
-    <div class="container" style="background-color: white;padding-top: 114px;">
+    <div class="container" style="background-color: #cfd0d1;
+    padding-top: 130px;">
         <div class="row">
             <!-- Section Heading -->
             <div class="col-12">
@@ -9,30 +10,26 @@
                    <br>
                     <b style="color: #ad1f79; font-size: 30px; width:50px">ISOLATION COMBLES PERDUES</b><br>
                     <b style="color: #004a99; font-size: 20px; width:50px"> RÉDUISEZ VOS DÉPENSES DE CHAUFFAGE JUSQU'À 30 % ET APPRÉCIEZ UN TOUT NOUVEAU CONFORT DE VIE .</b>
-
                 </div>
                 <br>
                 <div class="row">
                     <div class="col-3 offset-1">
                         <img src="{{asset("style/img/comb2.jpg")}}" style="width: 112%;
-    /* border-bottom-left-radius: 15px; */
-    /* border-bottom-right-radius: 15px; */
-    padding-left: -4px;
-    border-bottom-left-radius: 15px;
-    margin-top: 39px;
-    height: 167px;
-    padding-top: -46px;
-    padding-left: -8px;">
-                    </div>
-                    <div class="col-3">
-
-                        <img src="{{asset("style/img/comb1.jpg")}}" style="width: 112%;
     border-bottom-left-radius: 15px;
     /* border-bottom-right-radius: 15px; */
     padding-right: -9px;
-    padding-top: 30px;
+    padding-top: 38px;
     margin-top: 1px;
-    height: 213px;">
+    height: 205px;">
+                    </div>
+                    <div class="col-3">
+                        <img src="{{asset("style/img/comb1.jpg")}}" style="width: 112%;
+    /* border-bottom-left-radius: 15px; */
+    /* border-bottom-right-radius: 15px; */
+    padding-right: -9px;
+    padding-top: 38px;
+    margin-top: 1px;
+    height: 205px;">
                     </div>
                     <div class="col-3">
                         <img src="{{asset("style/img/comb3.jpg")}}" style="width: 90%;
@@ -42,7 +39,6 @@
     padding-top: 40px;
     margin-top: -1px;">
                     </div>
-
                 </div>
                 <br>
                 <br>
@@ -63,25 +59,20 @@
                 </ul>
                 <p>Économie d’énergie et diminution des émissions de gaz à effet de serre.
                 </p>
-
                 <br>
                 <br>
-
                 <div class="text-center" style="">
                     <p>Réduisez vos dépenses de chauffage <b>jusqu’à 30%.</b> </p>
                 </div>
-
-
-
                 <div class="row">
                     <div class="col-3 offset-1">
                         <img src="{{asset("style/img/rock2.png")}}" style="width: 112%;
     border-bottom-left-radius: 15px;
     /* border-bottom-right-radius: 15px; */
     padding-right: -9px;
-    padding-top: 30px;
+    padding-top: 38px;
     margin-top: 1px;
-    height: 213px;">
+    height: 205px;">
                     </div>
                     <div class="col-3">
                         <img src="{{asset("style/img/rock3.jpg")}}" style="width: 112%;
