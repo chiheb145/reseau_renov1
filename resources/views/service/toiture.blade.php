@@ -1,33 +1,72 @@
 @extends('layout.app')
 @section('content')
-    <div class="container">
-        <div class="form">
-            <br><br><br><br><br>
-            <h2>Contactez_nous</h2>
 
-            <form action="" method="post" role="form" class="contactForm">
-                @csrf
-                <div class="form-row">
-                    <div class="form-group col-md-6">
-                        <input type="text" name="name" class="form-control" id="name" placeholder="votre nom" data-rule="minlen:4" data-msg="S'il vous plaît entrer au moins 4 caractères" />
-                        <div class="validation"></div>
+        <div class="container" style="background-color: white; padding-top: 80px;">
+            <div class="row">
+                <!-- Section Heading -->
+                <div class="col-12">
+                    <div class="text-center" style="">
+
+                        <br>
+                        <br>
+                        <b style="color: #ad1f79; font-size: 30px; ">Traitement de Toiture</b>
+                        <br>
+                        <h2 style="color: #004a99;">Nettoyage-protections</h2>
                     </div>
-                    <div class="form-group col-md-6">
-                        <input type="email" class="form-control" name="email" id="email" placeholder="votre email" data-rule="email" data-msg="S'il vous plaît entrer un email valide" />
-                        <div class="validation"></div>
+                    <br>
+                    <div class="row">
+                        <div class="col-6">
+                            <img src="{{asset("style/img/toit.jpg")}}" style="width: 90%;border-bottom-left-radius: 15px;border-bottom-right-radius:15px;">
+                        </div>
+                        <div class="col-3"><br>
+                        <br>
+                            <p>Une toiture mal entretenue , c'est le risque de rencontrer des problèmes sérieux de manière prématurée.</p>
+                            <p>Un nettoyage efficace permet de conserver sa toiture de 40 à 60 ans.</p>
+                        </div>
+
                     </div>
+                    <div class="row">
+                           <div class="col-6">
+                               <br>
+                               <br>
+                               <br>
+                               <p>Un nettoyage efficace permet de conserver sa toiture de 40 à 60 ans.</p>
+                                   <p>Un traitement adéquat est la clé de votre tranquilité:
+                                   <br></p>
+                           </div>
+                        <div class="col-4">
+                            <img src="{{asset("style/img/toit2.jpg")}}" style="width: 90%;border-bottom-left-radius: 15px;border-bottom-right-radius:15px;"  >
+                        </div>
+
+                    </div>
+                    <br>
+                    <br>
+                    <div class="section-heading text-center">
+                        <h2><b>Les différents hydrofuges pour toiture</b></h2><br>
+
+                    </div>
+                    <p>Un traitement hydrofuge toiture imprègne les matériaux poreux et les protège en profondeur,durablement.</p>
+                    <p>Il existe toutefois deux types de traitements hydrofuge toiture: les traitements incolorés ou colorés.</p>
+
+
+                    <ul> <p><b>Les avantages des hydrofuges colorés ou incolorés sont nombreux :</b> <br></p></ul>
+
+                    <ul><li>Hydrofuge : réduit le degré d'absorption d'eau du support.</li>
+                        <li>Fongicide:freine l'apparition des végétaux.</li>
+                        <li>Durcisseur: Permet le durcissement de la surface et donc l'augmentation de la résistance à l'usure et à l'abrasion </li>
+                        <li>Prolonge la durée de vie de votre toit. </li>
+                        <li>Ne crée pas de film en surface. </li>
+                        <li>Prévient les risques de décollement ou de fissuration. </li>
+                        <li>Colore en profondeur, pour une longue tenue de la couleur. </li>
+                        <li>S'applique sur support sec ou légèrement humide. </li>
+                        <li>Laisse respirer le support. </li>
+                    </ul>
+
+
+
                 </div>
-                <div class="form-group">
-                    <input type="text" class="form-control" name="subject" id="subject" placeholder="sujet" data-rule="minlen:4" data-msg="Veuillez entrer au moins 8 caractères du sujet" />
-                    <div class="validation"></div>
-                </div>
-                <div class="form-group">
-                    <textarea class="form-control" name="message" rows="5" data-rule="required" data-msg="S'il vous plaît écrivez quelque chose pour nous" placeholder="Message"></textarea>
-                    <div class="validation"></div>
-                </div>
-                <div class="text-center"><button type="submit">Send Message</button></div>
-            </form>
+            </div>
         </div>
 
-    </div>
+
 @endsection

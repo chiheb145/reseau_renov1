@@ -464,20 +464,22 @@ Header
                 <div class="col-md-6 col-lg-5 offset-lg-1 wow bounceInUp" data-wow-duration="1.4s">
                     <div class="box1 row">
                         <div class="col-5">
-                            <img src="style/img/serv3.jpg" style="width: 251px;
+
+                            <img src="style/img/toit.jpg"  style="width: 251px;
+
                               height: 220px;
                               border-bottom-left-radius: 17px;
                               border-bottom-right-radius: 17px;">
                         </div>
                         <div class="col-7">
 
-                            <h4 class="title"><a href="">TRAITEMENT DE TOITURE (Nettoyage-protections)</a></h4>
-                            <p class="description1">Une toiture mal entretenue , c'est le risque de rencontrer des
-                                problèmes sérieux de manière prématurée.</p>
-                            <p class="description1">Un nettoyage efficace permet de conserver sa toiture de 40 à 60
-                                ans.</p>
-                            <button type="button" class="btn btn-link float-lg-right" style="color: #bd1b72"><a
-                                        href="{{asset('/toiture')}}">Voir Plus</a></button>
+
+
+                        <h4 class="title"><a href="">TRAITEMENT DE TOITURE (Nettoyage-protections)</a></h4>
+                        <p class="description1">Une toiture mal entretenue , c'est le risque de rencontrer des problèmes sérieux de manière prématurée.</p>
+
+                            <button type="button" class="btn btn-link float-lg-right" style="color: #bd1b72"><a href="{{asset('/toiture')}}">Voir Plus</a> </button>
+
                         </div>
 
                     </div>
@@ -497,11 +499,10 @@ Header
                             <p class="description1">Nos spécialistes sauront avec précision quel prédateur menace votre
                                 charpente:</p>
 
-                            <p class="description1"> -Les insectes à larves xylophages.</p>
-                            <p class="description1"> -Les insectes xylophages.</p>
-                            <p class="description1"> -Les champignons</p>
-                            <button type="button" class="btn btn-link float-lg-right" style="color: #bd1b72"><a
-                                        href="{{asset('/charpente')}}">Voir Plus</a></button>
+
+
+                            <button type="button" class="btn btn-link float-lg-right" style="color: #bd1b72"><a href="{{asset('/charpente')}}">Voir Plus</a> </button>
+
 
                         </div>
 
@@ -519,13 +520,12 @@ Header
                               border-bottom-right-radius: 17px;">
                         </div>
                         <div class="col-7">
-                            <h4 class="title"><a href="">ISOLATION COMBLES PERDUES</a></h4>
-                            <p class="description1"> RÉDUISEZ VOS DÉPENSES DE CHAUFFAGE JUSQU'À 30 % ET APPRÉCIEZ UN
-                                TOUT NOUVEAU CONFORT DE VIE .</p>
-                            <p class="description1">-Durée de vie de 50 ans et plus.</p>
-                            <p class="description1">-Matériaux classe S1 ,Tassement négligeable.</p>
-                            <button type="button" class="btn btn-link float-lg-right" style="color: #bd1b72"><a
-                                        href="{{asset('/comble')}}">Voir Plus</a></button>
+
+                        <h4 class="title"><a href="">ISOLATION COMBLES PERDUES</a></h4>
+                        <p class="description1"> RÉDUISEZ VOS DÉPENSES DE CHAUFFAGE JUSQU'À 30 % ET APPRÉCIEZ UN TOUT NOUVEAU CONFORT DE VIE .</p>
+                        <p class="description1">-Durée de vie de 50 ans et plus.</p>
+                            <button type="button" class="btn btn-link float-lg-right" style="color: #bd1b72"><a href="{{asset('/comble')}}">Voir Plus</a> </button>
+
                         </div>
                     </div>
 
@@ -539,13 +539,12 @@ Header
                               border-bottom-right-radius: 17px;">
                         </div>
                         <div class="col-7">
-                            <h4 class="title"><a href="">ISOLATION TOITURE</a></h4>
-                            <p class="description1"><b>ISOLANT MINCE PAR RÉFLEXION</b></p>
-                            <p class="description1">Avec l'isolant mince réflecteur , il suffit d'un seul produit et
-                                d'une seule opération pour traiter à la fois l'isolation et l'étanchéité.</p>
-                            <p class="description1"><b>PERFORMANCE MAXIMALE DANS UN MINIMUM D'ÉPAISSEUR.</b></p>
-                            <button type="button" class="btn btn-link float-lg-right" style="color: #bd1b72"><a
-                                        href="{{asset('/isolation')}}">Voir Plus</a></button>
+
+                        <h4 class="title"><a href="">ISOLATION TOITURE</a></h4>
+                        <p class="description1"><b>ISOLANT MINCE PAR RÉFLEXION</b></p>
+                        <p class="description1"><b>PERFORMANCE MAXIMALE DANS UN MINIMUM D'ÉPAISSEUR.</b></p>
+                            <button type="button" class="btn btn-link float-lg-right" style="color: #bd1b72"><a href="{{asset('/isolation')}}">Voir Plus</a> </button>
+
                         </div>
                     </div>
                 </div>
@@ -560,13 +559,12 @@ Header
                               border-bottom-right-radius: 17px;">
                         </div>
                         <div class="col-7">
-                            <h4 class="title"><a href="">TRAITEMENT ANTI-HUMIDITÉ</a></h4>
-                            <p class="description1"><b>ASSÈCHEMENT DES MURS</b></p>
-                            <p class="description1"><b>Solution aqueuse destinée à l'assèchement des murs.</b></p>
-                            <p class="description1">Permet la réalisation d'une barrière d'étanchéité sur les murs
-                                porteurs et de refend,compacts ou alvéolés.N'altère ni le polystyrène ,ni le bitume.</p>
-                            <button type="button" class="btn btn-link float-lg-right" style="color: #bd1b72"><a
-                                        href="{{asset('/toiture')}}">Voir Plus</a></button>
+
+                        <h4 class="title"><a href="">TRAITEMENT ANTI-HUMIDITÉ</a></h4>
+                        <p class="description1">ASSÈCHEMENT DES MURS</p>
+                        <p class="description1">Solution aqueuse destinée à l'assèchement des murs.</p>
+
+                            <button type="button" class="btn btn-link float-lg-right" style="color: #bd1b72"><a href="{{asset('/humidité')}}">Voir Plus</a> </button>
                         </div>
                     </div>
                 </div>
@@ -579,15 +577,12 @@ Header
                               border-bottom-right-radius: 17px;">
                         </div>
                         <div class="col-7">
-                            <h4 class="title"><a href="">TRAITEMENT DE FAÇADES</a></h4>
-                            <p class="description1"><b>RAVALEMENT Hydrofuge de surfaces</b></p>
-                            <p class="description1"><b>Un ravalement de façades offre une nouvelle jeunesse à votre
-                                    habitation </b></p>
-                            <p class="description1">-Longévité des matériaux. </p>
-                            <p class="description1">-Nouvelle esthétique. </p>
-                            <p class="description1">-Valeur ajoutée. </p>
-                            <button type="button" class="btn btn-link float-lg-right" style="color: #bd1b72"><a
-                                        href="{{asset('/toiture')}}">Voir Plus</a></button>
+
+                        <h4 class="title"><a href="">TRAITEMENT DE FAÇADES</a></h4>
+                        <p class="description1">RAVALEMENT Hydrofuge de surfaces</p>
+                        <p class="description1">Un ravalement de façades offre une nouvelle jeunesse à votre habitation </p>
+
+                            <button type="button" class="btn btn-link float-lg-right" style="color: #bd1b72"><a href="{{asset('/facade')}}">Voir Plus</a> </button>
                         </div>
                     </div>
                 </div>
@@ -600,14 +595,10 @@ Header
                               border-bottom-right-radius: 17px;">
                         </div>
                         <div class="col-7">
-                            <h4 class="title"><a href="">ISOLATION THERMIQUE EXTERIEURE</a></h4>
-                            <p class="description1"><b>*ISOLANTS</b></p>
-                            <p class="description1">PSE blanc et gris, laine de roche et fibre de bois.</p>
-                            <p class="description1"><b>*FINITIONS</b></p>
-                            <p class="description1">Enduits hydrauliques(PRB THERMOLOOK GF/GM, PRB CRÉPICHAUX )et
-                                enduits organiques (RPE,RME,peintures). </p>
-                            <button type="button" class="btn btn-link float-lg-right" style="color: #bd1b72"><a
-                                        href="{{asset('/toiture')}}">Voir Plus</a></button>
+
+                        <h4 class="title"><a href="">ISOLATION THERMIQUE EXTERIEURE</a></h4>
+                        <p class="description1">Enduits hydrauliques(PRB THERMOLOOK GF/GM, PRB CRÉPICHAUX )et enduits organiques (RPE,RME,peintures). </p>
+                            <button type="button" class="btn btn-link float-lg-right" style="color: #bd1b72"><a href="{{asset('/thermique')}}">Voir Plus</a> </button>
                         </div>
                     </div>
                 </div>
@@ -620,13 +611,10 @@ Header
                               border-bottom-right-radius: 17px;">
                         </div>
                         <div class="col-7">
-                            <h4 class="title"><a href="">VENTILATION</a></h4>
-                            <p class="description1"><b>LA SOLUTION POUR UNE MAISON CONFORTABLE ET ÉCONOME.</b></p>
-                            <p class="description1">Notre système complet permet une optimisation énergétique au profit
-                                d'un maintien constant d'une haute qualité sanitaire de l'air du logement dans lequel il
-                                est installé.Le système repose sur un système de ventilation par surpression.</p>
-                            <button type="button" class="btn btn-link float-lg-right" style="color: #bd1b72"><a
-                                        href="{{asset('/toiture')}}">Voir Plus</a></button>
+
+                        <h4 class="title"><a href="">VENTILATION</a></h4>
+                        <p class="description1"><b>LA SOLUTION POUR UNE MAISON CONFORTABLE ET ÉCONOME.</b></p>
+                            <button type="button" class="btn btn-link float-lg-right" style="color: #bd1b72"><a href="{{asset('/ventilation')}}">Voir Plus</a> </button>
                         </div>
                     </div>
                 </div>

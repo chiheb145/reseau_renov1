@@ -26,3 +26,17 @@ Route::get('/comble',function (){
 Route::get('/isolation',function (){
     return view('service.isolation');
 });
+Route::get('/humidité',function (){
+    return view('service.humidité');
+});
+
+Route::get('/facade',function (){
+    return view('service.facade');
+});
+Route::get('/thermique',function (){
+    return view('service.thermique');
+});
+
+Route::get('/ventilation',function (){
+    return view('service.ventilation');
+});
