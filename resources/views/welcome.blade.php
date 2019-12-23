@@ -291,7 +291,7 @@ Header
     <!--==========================
       About Us Section
     ============================-->
-    <section id="about " >
+    <section id="about">
         <div class="container ">
             <header class="section-header mb-5">
                 <h2 class="title">Qui Sommes-Nous</h2>
@@ -619,6 +619,38 @@ Header
                     </div>
                 </div>
 
+                <div class="col-md-6 offset-1 col-lg-5 wow bounceInUp" data-wow-delay="0.1s" data-wow-duration="1.4s">
+                    <div class="box8 row">
+                        <div class="col-5">
+                            <img src="style/img/ecran.jpg" style="width: 251px;
+                              height: 220px;
+                              border-bottom-left-radius: 17px;
+                              border-bottom-right-radius: 17px;">
+                        </div>
+                        <div class="col-7">
+
+                            <h4 class="title"><a href="">ÉCRAN SOUS TOITURE</a></h4>
+                            <p class="description1"><b>Protégez efficacement votre habitation grâce à un écran sous-toiture.</b></p>
+                            <button type="button" class="btn btn-link float-lg-right" style="color: #bd1b72"><a href="{{asset('/ecran')}}">Voir Plus</a> </button>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6 col-lg-5 wow bounceInUp" data-wow-delay="0.1s" data-wow-duration="1.4s">
+                    <div class="box8 row">
+                        <div class="col-5">
+                            <img src="style/img/radia.jpg" style="width: 251px;
+                              height: 220px;
+                              border-bottom-left-radius: 17px;
+                              border-bottom-right-radius: 17px;">
+                        </div>
+                        <div class="col-7">
+
+                            <h4 class="title"><a href="">RADIATEURS</a></h4>
+                            <p class="description1"><b>DÉCOUVREZ TOUTES NOS SOLUTIONS</b></p>
+                            <button type="button" class="btn btn-link float-lg-right" style="color: #bd1b72"><a href="{{asset('/radiateur')}}">Voir Plus</a> </button>
+                        </div>
+                    </div>
+                </div>
             </div>
 
         </div>
