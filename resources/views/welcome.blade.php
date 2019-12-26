@@ -293,7 +293,7 @@ Header
     ============================-->
     <section id="about">
         <div class="container ">
-            <header class="section-header mb-5">
+            <header class="section-header mb-5" style="padding-top: 40px;">
                 <h2 class="title">Qui Sommes-Nous</h2>
             </header>
 
