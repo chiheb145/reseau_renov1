@@ -594,7 +594,6 @@ h6 {
 
 #services {
   padding: 60px 0 40px 0;
-  box-shadow: inset 0px 0px 12px 0px rgba(0, 0, 0, 0.1);
     background-color: #157dbd;
 }
 
@@ -814,7 +813,6 @@ h6 {
 
 #portfolio {
   padding: 60px 0;
-  box-shadow: 0px 0px 12px 0px rgba(0, 0, 0, 0.1);
 }
 
 #portfolio #portfolio-flters {
