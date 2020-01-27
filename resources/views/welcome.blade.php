@@ -294,7 +294,7 @@ Header
 
     <section id="about">
         <div class="container ">
-            <header class="section-header mb-5">
+            <header class="section-header ">
                 <h2 class="title" style="padding-top: 50px;">Qui Sommes-Nous</h2>
             </header>
 
@@ -889,13 +889,13 @@ Header
     <section id="team">
         <div class="container">
             <div class="section-header">
-                <h3>Nos Personnels</h3>
+                <h2 class="title" style="font-weight: bold;font-size: 30px">Nos Personnels</h2>
                 <p></p>
             </div>
 
             <div class="row">
 
-                <div class="col-lg-3 offset-2  col-md-6 wow fadeInUp">
+                <div class="col-lg-2 offset-lg-1 wow fadeInUp">
                     <div class="member">
                         <img src="style/img/team-4.jpg" class="img-fluid" alt="">
                         <div class="member-info">
@@ -913,8 +913,7 @@ Header
                         </div>
                     </div>
                 </div>
-
-                <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+                <div class="col-lg-2  wow fadeInUp" data-wow-delay="0.1s">
                     <div class="member">
                         <img src="style/img/team-2.jpg" class="img-fluid" alt="">
                         <div class="member-info">
@@ -932,8 +931,7 @@ Header
                         </div>
                     </div>
                 </div>
-
-                <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="1s">
+                <div class="col-lg-2  wow fadeInUp" data-wow-delay="1s">
                     <div class="member">
                         <img src="style/img/team-3.jpg" class="img-fluid" alt="">
                         <div class="member-info">
@@ -951,9 +949,7 @@ Header
                         </div>
                     </div>
                 </div>
-            </div>
-            <div class="row">
-                <div class="col-lg-3 offset-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
+                <div class="col-lg-2  wow fadeInUp" data-wow-delay="0.3s">
                     <div class="member">
                         <img src="style/img/team-4.jpg" class="img-fluid" alt="">
                         <div class="member-info">
@@ -971,7 +967,7 @@ Header
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
+                <div class="col-lg-2  wow fadeInUp" data-wow-delay="0.3s">
                     <div class="member">
                         <img src="style/img/team-1.jpg" class="img-fluid" alt="">
                         <div class="member-info">
@@ -996,74 +992,7 @@ Header
         </div>
     </section><!-- #team -->
 
-    <!--==========================
-      Clients Section
-    ============================-->
-    <section id="clients" class="section-bg">
 
-        <div class="container">
-
-            <div class="section-header">
-                <h3>Our CLients</h3>
-                <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque dere santome
-                    nida.</p>
-            </div>
-
-            <div class="row no-gutters clients-wrap clearfix wow fadeInUp">
-
-                <div class="col-lg-3 col-md-4 col-xs-6">
-                    <div class="client-logo">
-                        <img src="style/img/clients/client-1.png" class="img-fluid" alt="">
-                    </div>
-                </div>
-
-                <div class="col-lg-3 col-md-4 col-xs-6">
-                    <div class="client-logo">
-                        <img src="style/img/clients/client-2.png" class="img-fluid" alt="">
-                    </div>
-                </div>
-
-                <div class="col-lg-3 col-md-4 col-xs-6">
-                    <div class="client-logo">
-                        <img src="style/img/clients/client-3.png" class="img-fluid" alt="">
-                    </div>
-                </div>
-
-                <div class="col-lg-3 col-md-4 col-xs-6">
-                    <div class="client-logo">
-                        <img src="style/img/clients/client-4.png" class="img-fluid" alt="">
-                    </div>
-                </div>
-
-                <div class="col-lg-3 col-md-4 col-xs-6">
-                    <div class="client-logo">
-                        <img src="style/img/clients/client-5.png" class="img-fluid" alt="">
-                    </div>
-                </div>
-
-                <div class="col-lg-3 col-md-4 col-xs-6">
-                    <div class="client-logo">
-                        <img src="style/img/clients/client-6.png" class="img-fluid" alt="">
-                    </div>
-                </div>
-
-                <div class="col-lg-3 col-md-4 col-xs-6">
-                    <div class="client-logo">
-                        <img src="style/img/clients/client-7.png" class="img-fluid" alt="">
-                    </div>
-                </div>
-
-                <div class="col-lg-3 col-md-4 col-xs-6">
-                    <div class="client-logo">
-                        <img src="style/img/clients/client-8.png" class="img-fluid" alt="">
-                    </div>
-                </div>
-
-            </div>
-
-        </div>
-
-    </section>
 
     <!--==========================
       Contact Section
@@ -1072,7 +1001,7 @@ Header
         <div class="container-fluid">
 
             <div class="section-header">
-                <h3>Contact Us</h3>
+                <h2 class="title" style="font-size: 30px;font-weight: bold">Contactez nous</h2>
             </div>
 
             <div class="row wow fadeInUp">
