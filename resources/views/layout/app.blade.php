@@ -1,13 +1,8 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>Reseau Renov</title>
-
-    <!-- Google Font: Source Sans Pro -->
-    <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,700" rel="stylesheet">
 
     <meta charset="utf-8">
-
+    <title>Reseau Renov</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta content="" name="keywords">
     <meta content="" name="description">
@@ -17,7 +12,8 @@
     <link href="{{asset('style')}}img/apple-touch-icon.png" rel="apple-touch-icon">
 
     <!-- Google Fonts -->
-    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,700,700i|Montserrat:300,400,500,700" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,700,700i|Montserrat:300,400,500,700"
+          rel="stylesheet">
 
     <!-- Bootstrap CSS File -->
     <link href="{{asset('')}}style/lib/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -42,6 +38,32 @@
 
 <body>
 
+<style>
+    .title_facade {
+        color: #ad1f79;
+        font-size: 30px;
+    }
+    .title_facade1{
+        color: #004a99;
+        font-size: 20px;
+    }
+
+    @media only screen and (max-width: 600px) {
+        .title_facade {
+            font-size: 20px;
+        }
+        .title_facade1{
+            font-size: 15px;
+        }
+        #header .logo img {
+            padding: -18px;
+            margin: 0px 0;
+            max-height: 46px;
+            max-width: 46px;
+        }s
+    }
+</style>
+
 <!--==========================
 Header
 ============================-->
@@ -55,43 +77,20 @@ Header
             <!-- <h1 class="text-light"><a href="#header"><span>NewBiz</span></a></h1> -->
 
             <div class="container clearfix">
-                <a href="#intro" class="logo"><img src="style/img/logo11.png" width="62px" alt="" class="img-fluid"></a>
+                <a href="#intro" class="logo"><img src="style/img/logo11.png" width="80px" alt="" class="img-fluid"></a>
 
-                <div class="social-links float-right">
 
-                    <a href="https://twitter.com/" class="twitter" style="color:  rgb(166, 21, 115)"><i class="fa fa-twitter"></i></a>
-                    <a href="https://www.facebook.com/" class="facebook" style="color:  rgb(166, 21, 115)"><i class="fa fa-facebook"></i></a>
-                    <a href="https://www.instagram.com/" class="instagram" style="color:  rgb(166, 21, 115)"><i class="fa fa-instagram"></i></a>
-
-                </div>
             </div>
         </div>
 
         <nav class="main-nav float-right d-none d-lg-block">
             <ul>
-                <li class="active"><a href="{{asset('/')}}">Accueil</a></li>
-                <li><a href="#about">Qui Sommes-Nous</a></li>
-                <li><a href="#services">Services</a></li>
-                <li><a href="#portfolio">Portfolio</a></li>
-                <li><a href="#team">Equipe</a></li>
-                <li class="drop-down"><a href="">Drop Down</a>
-                    <ul>
-                        <li><a href="#">Drop Down 1</a></li>
-                        <li class="drop-down"><a href="#">Drop Down 2</a>
-                            <ul>
-                                <li><a href="#">Deep Drop Down 1</a></li>
-                                <li><a href="#">Deep Drop Down 2</a></li>
-                                <li><a href="#">Deep Drop Down 3</a></li>
-                                <li><a href="#">Deep Drop Down 4</a></li>
-                                <li><a href="#">Deep Drop Down 5</a></li>
-                            </ul>
-                        </li>
-                        <li><a href="#">Drop Down 3</a></li>
-                        <li><a href="#">Drop Down 4</a></li>
-                        <li><a href="#">Drop Down 5</a></li>
-                    </ul>
-                </li>
-                <li><a href="#contact">Contact </a></li>
+                <li class="active"><a href="#accueil">Accueil</a></li>
+                <li><a href="{{route('welcome')}}#about">Qui Sommes-Nous</a></li>
+                <li><a href="{{route('welcome')}}#services">Services</a></li>
+                <li><a href="{{route('welcome')}}#portfolio">Partenaires</a></li>
+                <li><a href="{{route('welcome')}}#team">Equipe</a></li>
+                <li><a href="{{route('welcome')}}#contact">Contact </a></li>
             </ul>
         </nav><!-- .main-nav -->
 
@@ -103,43 +102,7 @@ Header
 ============================-->
 
 
-<style>
-    .image_right {
-        height: 439px;
-        border: 5px solid transparent;
-        /* border-bottom-left-radius: 2010px; */
-        border-bottom-right-radius: 277px 17px;
-        background-image: url(http://reseauss.test/style/img/pict55.png);
-        margin-top: 66px;
-    }
-    .image_left{
-        height: 425px;
-        border: 5px solid transparent;
-        border-bottom-left-radius: 1460px 114px;
-        /* border-bottom-right-radius: 2010px 0px; */
-        background-image: url(http://reseauss.test/style/img/pict222.png);
-        margin-top: 80px;
-    }
-    #intro {
-        width: 100%;
-        position: relative;
-        background-color: #157dbd;
-        background-size: cover;
-        padding: -3px 0 0px 0;
-        border-left-radius: 12px;
-        border-bottom-right-radius: 852px 55px;
-        border-bottom-left-radius: 501px 54px;
-    }
-
-
-
-</style>
-
-<section class="py-4" style="background-color: #bd1b72; height: 1363px;">
-    @yield('content')
-</section>
-
-
+@yield('content')
 
 <!--==========================
   Footer
@@ -149,30 +112,30 @@ Header
         <div class="container">
             <div class="row">
 
-                <div class="col-lg-4 col-md-6 footer-info">
-                    <h3>NewBiz</h3>
-                    <p>Cras fermentum odio eu feugiat lide par naso tierra. Justo eget nada terra videa magna derita valies darta donna mare fermentum iaculis eu non diam phasellus. Scelerisque felis imperdiet proin fermentum leo. Amet volutpat consequat mauris nunc congue.</p>
+                <div class="col-lg-3  col-sm-12 text-center  footer-info">
+                    <img src="http://reseau_renov1.test/style/img/pict222.png" style="width: 91%;">
+
                 </div>
 
-                <div class="col-lg-2 col-md-6 footer-links">
-                    <h4>Useful Links</h4>
+                <div class="col-lg-3 col-sm-12 text-center footer-links">
+                    <h4>Arbre de site</h4>
                     <ul>
-                        <li><a href="#">Home</a></li>
-                        <li><a href="#">About us</a></li>
-                        <li><a href="#">Services</a></li>
-                        <li><a href="#">Terms of service</a></li>
-                        <li><a href="#">Privacy policy</a></li>
+                        <li><a href="#accueil">Accueil</a></li>
+                        <li><a href="{{route('welcome')}}#about">Qui Sommes-Nous</a></li>
+                        <li><a href="{{route('welcome')}}#services">Services</a></li>
+                        <li><a href="{{route('welcome')}}#portfolio">Partenaires</a></li>
+                        <li><a href="{{route('welcome')}}#team">Equipe</a></li>
+                        <li><a href="{{route('welcome')}}#contact">Contact </a></li>
                     </ul>
                 </div>
 
-                <div class="col-lg-3 col-md-6 footer-contact">
-                    <h4>Contact Us</h4>
+                <div class="col-lg-3  col-sm-12 text-center footer-contact">
+                    <h4>Contactez nous</h4>
                     <p>
-                        A108 Adam Street <br>
-                        New York, NY 535022<br>
-                        United States <br>
-                        <strong>Phone:</strong> +1 5589 55488 55<br>
-                        <strong>Email:</strong> info@example.com<br>
+                        <strong>Adresse:</strong> 08 Rue du Foubourg Poissonnière ,<br>
+                        75010,Paris,France <br>
+                        <strong>Tel:</strong> 05 49 13 09 92<br>
+                        <strong>Email:</strong>info@example.com<br>
                     </p>
 
                     <div class="social-links">
@@ -185,12 +148,10 @@ Header
 
                 </div>
 
-                <div class="col-lg-3 col-md-6 footer-newsletter">
-                    <h4>Our Newsletter</h4>
-                    <p>Tamen quem nulla quae legam multos aute sint culpa legam noster magna veniam enim veniam illum dolore legam minim quorum culpa amet magna export quem marada parida nodela caramase seza.</p>
-                    <form action="" method="post">
-                        <input type="email" name="email"><input type="submit"  value="Subscribe">
-                    </form>
+                <div class="col-lg-3  col-sm-12 text-center footer-newsletter">
+                    <h4>Réseau Rénov</h4>
+                    <p>Peinture intérieur extérieur | Façade Charpente | Couverture | Isolation | Ventilation Tout traitement (bois, charpente, couverture…) Électricité générale | Énergie renouvelable</p>
+
                 </div>
 
             </div>
@@ -199,16 +160,11 @@ Header
 
     <div class="container">
         <div class="copyright">
-            &copy; Copyright <strong>NewBiz</strong>. All Rights Reserved
+            &copy; Copyright <strong><a href="http://www.1waydev.com">1waydev</a></strong>. All Rights Reserved
         </div>
         <div class="credits">
-            <!--
-              All the links in the footer should remain intact.
-              You can delete the links only if you purchased the pro version.
-              Licensing information: https://bootstrapmade.com/license/
-              Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/buy/?theme=NewBiz
-            -->
-            Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
+
+
         </div>
     </div>
 </footer><!-- #footer -->
@@ -234,15 +190,6 @@ Header
 
 <!-- Template Main Javascript File -->
 <script src="{{asset('')}}style/js/main.js"></script>
-<script
-    src="https://code.jquery.com/jquery-3.4.1.js"></script>
-<script src="{{asset('back/plugins/jquery/jquery.min.js')}}"></script>
-<!-- jQuery UI 1.11.4 -->
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
-<script src="{{asset('back/plugins/jquery-ui/jquery-ui.min.js')}}"></script>
-<!-- Resolve conflict in jQuery UI tooltip with Bootstrap tooltip -->
-
-
 
 
 </body>

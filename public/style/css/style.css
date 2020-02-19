@@ -160,7 +160,7 @@ h6 {
 
 #header .logo img {
     padding: -18px;
-    margin: -38px 0;
+    margin: -20px 0;
     max-height: 67px;
 }
 
@@ -600,6 +600,7 @@ h6 {
 #services .box1 {
   padding: 30px;
   position: relative;
+
   overflow: hidden;
   border-radius: 10px;
   margin: 0 10px 40px 10px;
@@ -704,15 +705,11 @@ h6 {
   transition: 0.5s;
 }
 
-#services .title {
-  margin-left: 40px;
-  font-weight: 700;
-  margin-bottom: 15px;
-  font-size: 18px;
-}
+
 
 #services .title a {
   color: #111;
+  font-size: 14px;
 }
 
 #services .box:hover .title a {
@@ -1285,7 +1282,7 @@ h6 {
 }
 
 #footer .footer-top {
-  background: #004a99;
+  background: #157dbd;
   padding: 60px 0 30px 0;
 }
 
@@ -1339,7 +1336,7 @@ h6 {
   color: #fff;
   text-transform: uppercase;
   position: relative;
-  padding-bottom: 10px;
+  padding-bottom: 0px;
 }
 
 #footer .footer-top .footer-links {
@@ -1353,7 +1350,7 @@ h6 {
 }
 
 #footer .footer-top .footer-links ul li {
-  padding: 8px 0;
+  padding: 2px 0;
 }
 
 #footer .footer-top .footer-links ul li:first-child {

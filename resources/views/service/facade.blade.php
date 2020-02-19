@@ -1,27 +1,24 @@
 @extends('layout.app')
 @section('content')
 
+
     <div class="container" style="background-color: white; padding-top: 158px;">
         <div class="row">
             <!-- Section Heading -->
             <div class="col-12">
                 <div class="text-center" style="">
-
-                    <b style="color: #ad1f79; font-size: 30px; ">TRAITEMENT DE FAÇADES</b>
-                    <br>
-                    <b style="color: #004a99; font-size: 20px; ">RAVALEMENT Hydrofuge de surfaces</b>
+                    <H2 class="title_facade">TRAITEMENT DE FAÇADES</H2>
+                    <b class="title_facade1">RAVALEMENT Hydrofuge de surfaces</b>
                 </div>
-                <br>
-                <br>
-
-               <br>
-                <div class="row">
-                    <div class="col-6">
-                        <img src="{{asset("style/img/facade.jpg")}}" style="width: 90%;
+            </div>
+        </div>
+        <div class="row justify-content-center mt-5">
+                    <div class="col-lg-4 col-sm-12">
+                        <img src="{{asset("style/img/facade.jpg")}}" style="width: 100%;
     border-bottom-left-radius: 15px;
     border-bottom-right-radius: 15px;">
                     </div>
-                    <div class="col-3"><br>
+                    <div class="col-lg-5 col-sm-12"><br>
                         <br>
                         <p><b>Un ravalement de façades offre une nouvelle jeunesse à votre habitation .</b></p>
                         <ul><li>Longévité des matériaux.</li>
@@ -31,32 +28,31 @@
                     </div>
 
                 </div>
-                <br>
-                <br>
-                <div class="row">
-                    <div class="col-3">
+        <div class="row justify-content-center">
+                    <div class="col-lg-4 col-sm-12">
                         <br><br>
                         <p><b>A moindre cout, une évidente amélioration de votre habitation,au regard des autres et,plus important encore, au votre.</b></p>
                     </div>
-                    <div class="col-6"><br>
-                        <img src="{{asset("style/img/facade1.jpg")}}" style="width: 90%;
+                    <div class="col-lg-5 col-sm-12"><br>
+                        <img src="{{asset("style/img/facade1.jpg")}}" style="width: 100%;
     border-bottom-left-radius: 15px;
     border-bottom-right-radius: 15px;
     height: 310px;">
                     </div>
 
                 </div>
-                <br>
+        <div class="row justify-content-center mt-5 pb-5">
+                    <div class="col-lg-10 col-sm-12">
+                        <h2 class="title_facade1" style="text-align: center">Propriétés  de nos produits hydrofuge façade </h2>
+                        <ul><li> Les traitements hydrofuges de façade réduisent toute forme de pénétration d’eau sans modifier la perméabilité à la vapeur : le matériau continue de "respirer".</li>
+                            <li> Les capillaires ne sont pas bouchés, mais la tension superficielle est réduite.</li>
 
-                <p><b>PROPRIÉTÉS  DE  NOS  PRODUITS  HYDROFUGE  FAÇADE :</b></p>
-                <ul><li> Les traitements hydrofuges de façade réduisent toute forme de pénétration d’eau sans modifier la perméabilité à la vapeur : le matériau continue de "respirer".</li>
-                    <li> Les capillaires ne sont pas bouchés, mais la tension superficielle est réduite.</li>
+                        </ul>
+                    </div>
 
-                </ul>
-
-            </div>
-        </div>
+                </div>
     </div>
+
 
 
 @endsection
