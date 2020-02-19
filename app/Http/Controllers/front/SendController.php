@@ -18,7 +18,7 @@ class SendController extends Controller
 
     {
         //dd($request);
-        $toEmail = 'chiheb@1waycom.com';
+        $toEmail = 'contact@resau-renov.fr';
         $emailTitle = $request['subject'];
         $source = $request['email'];
 

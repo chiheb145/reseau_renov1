@@ -88,8 +88,8 @@ Header
                 <li class="active"><a href="#accueil">Accueil</a></li>
                 <li><a href="{{route('welcome')}}#about">Qui Sommes-Nous</a></li>
                 <li><a href="{{route('welcome')}}#services">Services</a></li>
-                <li><a href="{{route('welcome')}}#portfolio">Partenaires</a></li>
-                <li><a href="{{route('welcome')}}#team">Equipe</a></li>
+            <!--<li><a href="{{route('welcome')}}#portfolio">Partenaires</a></li>
+                <li><a href="{{route('welcome')}}#team">Equipe</a></li>-->
                 <li><a href="{{route('welcome')}}#contact">Contact </a></li>
             </ul>
         </nav><!-- .main-nav -->

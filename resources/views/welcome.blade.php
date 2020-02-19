@@ -697,333 +697,333 @@
         <!--==========================
           Portfolio Section
         ============================-->
-        <section id="portfolio" class="clearfix">
-            <div class="container">
+        <!--  <section id="portfolio" class="clearfix">
+              <div class="container">
 
-                <header class="section-header">
-                    <h2 class="title" style="padding-top: 50px;font-size: 40px;font-weight: bold;">Partenaire</h2>
-                </header>
+                  <header class="section-header">
+                      <h2 class="title" style="padding-top: 50px;font-size: 40px;font-weight: bold;">Partenaire</h2>
+                  </header>
 
-                <div class="row">
-                    <div class="col-lg-12">
-                        <ul id="portfolio-flters">
-                            <li data-filter="*" class="filter-active">All</li>
-                            <li data-filter=".filter-rockwool">Rockwool</li>
-                            <li data-filter=".filter-NF">NF</li>
-                            <li data-filter=".filter-PRB">PRB</li>
-                        </ul>
-                    </div>
-                </div>
+                  <div class="row">
+                      <div class="col-lg-12">
+                          <ul id="portfolio-flters">
+                              <li data-filter="*" class="filter-active">All</li>
+                              <li data-filter=".filter-rockwool">Rockwool</li>
+                              <li data-filter=".filter-NF">NF</li>
+                              <li data-filter=".filter-PRB">PRB</li>
+                          </ul>
+                      </div>
+                  </div>
 
-                <div class="row portfolio-container">
+                  <div class="row portfolio-container">
 
-                    <div class="col-lg-4 col-md-6 portfolio-item filter-rockwool">
-                        <div class="portfolio-wrap">
-                            <img src="img/galerie_rockwool2.jpg" class="img-fluid" alt="">
-                            <div class="portfolio-info">
-                                <h4><a href="#">App 1</a></h4>
-                                <p>App</p>
-                                <div>
-                                    <a href="img/galerie_rockwool2.jpg" data-lightbox="portfolio" data-title="App 1"
-                                       class="link-preview" title="Preview"><i class="ion ion-eye"></i></a>
-                                    <a href="#" class="link-details" title="More Details"><i
-                                                class="ion ion-android-open"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
+                      <div class="col-lg-4 col-md-6 portfolio-item filter-rockwool">
+                          <div class="portfolio-wrap">
+                              <img src="img/galerie_rockwool2.jpg" class="img-fluid" alt="">
+                              <div class="portfolio-info">
+                                  <h4><a href="#">App 1</a></h4>
+                                  <p>App</p>
+                                  <div>
+                                      <a href="img/galerie_rockwool2.jpg" data-lightbox="portfolio" data-title="App 1"
+                                         class="link-preview" title="Preview"><i class="ion ion-eye"></i></a>
+                                      <a href="#" class="link-details" title="More Details"><i
+                                                  class="ion ion-android-open"></i></a>
+                                  </div>
+                              </div>
+                          </div>
+                      </div>
 
-                    <div class="col-lg-4 col-md-6 portfolio-item filter-rockwool" data-wow-delay="1s">
-                        <div class="portfolio-wrap">
-                            <img src="img/galerie_rockwool.jpg" class="img-fluid" alt="">
-                            <div class="portfolio-info">
-                                <h4><a href="#">App 3</a></h4>
-                                <p>App</p>
-                                <div>
-                                    <a href="img/galerie_rockwool.jpg" class="link-preview" data-lightbox="portfolio"
-                                       data-title="App 3" title="Preview"><i class="ion ion-eye"></i></a>
-                                    <a href="#" class="link-details" title="More Details"><i
-                                                class="ion ion-android-open"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
+                      <div class="col-lg-4 col-md-6 portfolio-item filter-rockwool" data-wow-delay="1s">
+                          <div class="portfolio-wrap">
+                              <img src="img/galerie_rockwool.jpg" class="img-fluid" alt="">
+                              <div class="portfolio-info">
+                                  <h4><a href="#">App 3</a></h4>
+                                  <p>App</p>
+                                  <div>
+                                      <a href="img/galerie_rockwool.jpg" class="link-preview" data-lightbox="portfolio"
+                                         data-title="App 3" title="Preview"><i class="ion ion-eye"></i></a>
+                                      <a href="#" class="link-details" title="More Details"><i
+                                                  class="ion ion-android-open"></i></a>
+                                  </div>
+                              </div>
+                          </div>
+                      </div>
 
-                    <div class="col-lg-4 col-md-6 portfolio-item filter-rockwool" data-wow-delay="1s">
-                        <div class="portfolio-wrap">
-                            <img src="img/galerie_rockwool3.jpg" class="img-fluid" alt="">
-                            <div class="portfolio-info">
-                                <h4><a href="#">app 3</a></h4>
-                                <p>app</p>
-                                <div>
-                                    <a href="img/galerie_rockwool3.jpg" class="link-preview" data-lightbox="portfolio"
-                                       data-title="Web 3" title="Preview"><i class="ion ion-eye"></i></a>
-                                    <a href="#" class="link-details" title="More Details"><i
-                                                class="ion ion-android-open"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
+                      <div class="col-lg-4 col-md-6 portfolio-item filter-rockwool" data-wow-delay="1s">
+                          <div class="portfolio-wrap">
+                              <img src="img/galerie_rockwool3.jpg" class="img-fluid" alt="">
+                              <div class="portfolio-info">
+                                  <h4><a href="#">app 3</a></h4>
+                                  <p>app</p>
+                                  <div>
+                                      <a href="img/galerie_rockwool3.jpg" class="link-preview" data-lightbox="portfolio"
+                                         data-title="Web 3" title="Preview"><i class="ion ion-eye"></i></a>
+                                      <a href="#" class="link-details" title="More Details"><i
+                                                  class="ion ion-android-open"></i></a>
+                                  </div>
+                              </div>
+                          </div>
+                      </div>
 
-                    <div class="col-lg-4 col-md-6 portfolio-item filter-rockwool" data-wow-delay="1s">
-                        <div class="portfolio-wrap">
-                            <img src="img/galerie_rockwool4.jpg" class="img-fluid" alt="">
-                            <div class="portfolio-info">
-                                <h4><a href="#">App 2</a></h4>
-                                <p>App</p>
-                                <div>
-                                    <a href="img/galerie_rockwool4.jpg" class="link-preview" data-lightbox="portfolio"
-                                       data-title="App 2" title="Preview"><i class="ion ion-eye"></i></a>
-                                    <a href="#" class="link-details" title="More Details"><i
-                                                class="ion ion-android-open"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
+                      <div class="col-lg-4 col-md-6 portfolio-item filter-rockwool" data-wow-delay="1s">
+                          <div class="portfolio-wrap">
+                              <img src="img/galerie_rockwool4.jpg" class="img-fluid" alt="">
+                              <div class="portfolio-info">
+                                  <h4><a href="#">App 2</a></h4>
+                                  <p>App</p>
+                                  <div>
+                                      <a href="img/galerie_rockwool4.jpg" class="link-preview" data-lightbox="portfolio"
+                                         data-title="App 2" title="Preview"><i class="ion ion-eye"></i></a>
+                                      <a href="#" class="link-details" title="More Details"><i
+                                                  class="ion ion-android-open"></i></a>
+                                  </div>
+                              </div>
+                          </div>
+                      </div>
 
-                    <div class="col-lg-4 col-md-6 portfolio-item filter-NF" data-wow-delay="1s">
-                        <div class="portfolio-wrap">
-                            <img src="img/galerie_nf1.jpg" class="img-fluid" alt="">
-                            <div class="portfolio-info">
-                                <h4><a href="#">Card 2</a></h4>
-                                <p>Card</p>
-                                <div>
-                                    <a href="img/galerie_nf1.jpg" class="link-preview" data-lightbox="portfolio"
-                                       data-title="Card 2" title="Preview"><i class="ion ion-eye"></i></a>
-                                    <a href="#" class="link-details" title="More Details"><i
-                                                class="ion ion-android-open"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
+                      <div class="col-lg-4 col-md-6 portfolio-item filter-NF" data-wow-delay="1s">
+                          <div class="portfolio-wrap">
+                              <img src="img/galerie_nf1.jpg" class="img-fluid" alt="">
+                              <div class="portfolio-info">
+                                  <h4><a href="#">Card 2</a></h4>
+                                  <p>Card</p>
+                                  <div>
+                                      <a href="img/galerie_nf1.jpg" class="link-preview" data-lightbox="portfolio"
+                                         data-title="Card 2" title="Preview"><i class="ion ion-eye"></i></a>
+                                      <a href="#" class="link-details" title="More Details"><i
+                                                  class="ion ion-android-open"></i></a>
+                                  </div>
+                              </div>
+                          </div>
+                      </div>
 
-                    <div class="col-lg-4 col-md-6 portfolio-item filter-NF" data-wow-delay="1s">
-                        <div class="portfolio-wrap">
-                            <img src="img/galerie_nf2.jpg" class="img-fluid" alt="">
-                            <div class="portfolio-info">
-                                <h4><a href="#">Card 1</a></h4>
-                                <p>Card</p>
-                                <div>
-                                    <a href="img/galerie_nf2.jpg" class="link-preview" data-lightbox="portfolio"
-                                       data-title="Card 1" title="Preview"><i class="ion ion-eye"></i></a>
-                                    <a href="#" class="link-details" title="More Details"><i
-                                                class="ion ion-android-open"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
+                      <div class="col-lg-4 col-md-6 portfolio-item filter-NF" data-wow-delay="1s">
+                          <div class="portfolio-wrap">
+                              <img src="img/galerie_nf2.jpg" class="img-fluid" alt="">
+                              <div class="portfolio-info">
+                                  <h4><a href="#">Card 1</a></h4>
+                                  <p>Card</p>
+                                  <div>
+                                      <a href="img/galerie_nf2.jpg" class="link-preview" data-lightbox="portfolio"
+                                         data-title="Card 1" title="Preview"><i class="ion ion-eye"></i></a>
+                                      <a href="#" class="link-details" title="More Details"><i
+                                                  class="ion ion-android-open"></i></a>
+                                  </div>
+                              </div>
+                          </div>
+                      </div>
 
-                    <div class="col-lg-4 col-md-6 portfolio-item filter-NF" data-wow-delay="1s">
-                        <div class="portfolio-wrap">
-                            <img src="img/galerie_nf3.jpg" class="img-fluid" alt="">
-                            <div class="portfolio-info">
-                                <h4><a href="#">Card 3</a></h4>
-                                <p>Card</p>
-                                <div>
-                                    <a href="img/galerie_nf3.jpg" class="link-preview" data-lightbox="portfolio"
-                                       data-title="Card 3" title="Preview"><i class="ion ion-eye"></i></a>
-                                    <a href="#" class="link-details" title="More Details"><i
-                                                class="ion ion-android-open"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
+                      <div class="col-lg-4 col-md-6 portfolio-item filter-NF" data-wow-delay="1s">
+                          <div class="portfolio-wrap">
+                              <img src="img/galerie_nf3.jpg" class="img-fluid" alt="">
+                              <div class="portfolio-info">
+                                  <h4><a href="#">Card 3</a></h4>
+                                  <p>Card</p>
+                                  <div>
+                                      <a href="img/galerie_nf3.jpg" class="link-preview" data-lightbox="portfolio"
+                                         data-title="Card 3" title="Preview"><i class="ion ion-eye"></i></a>
+                                      <a href="#" class="link-details" title="More Details"><i
+                                                  class="ion ion-android-open"></i></a>
+                                  </div>
+                              </div>
+                          </div>
+                      </div>
 
-                    <div class="col-lg-4 col-md-6 portfolio-item filter-PRB" data-wow-delay="1s">
-                        <div class="portfolio-wrap">
-                            <img src="img/galerie_rpp1.jpg" class="img-fluid" alt="">
-                            <div class="portfolio-info">
-                                <h4><a href="#">Web 2</a></h4>
-                                <p>Web</p>
-                                <div>
-                                    <a href="img/galerie_rpp1.jpg" class="link-preview" data-lightbox="portfolio"
-                                       data-title="Web 2" title="Preview"><i class="ion ion-eye"></i></a>
-                                    <a href="#" class="link-details" title="More Details"><i
-                                                class="ion ion-android-open"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
+                      <div class="col-lg-4 col-md-6 portfolio-item filter-PRB" data-wow-delay="1s">
+                          <div class="portfolio-wrap">
+                              <img src="img/galerie_rpp1.jpg" class="img-fluid" alt="">
+                              <div class="portfolio-info">
+                                  <h4><a href="#">Web 2</a></h4>
+                                  <p>Web</p>
+                                  <div>
+                                      <a href="img/galerie_rpp1.jpg" class="link-preview" data-lightbox="portfolio"
+                                         data-title="Web 2" title="Preview"><i class="ion ion-eye"></i></a>
+                                      <a href="#" class="link-details" title="More Details"><i
+                                                  class="ion ion-android-open"></i></a>
+                                  </div>
+                              </div>
+                          </div>
+                      </div>
 
-                    <div class="col-lg-4 col-md-6 portfolio-item filter-PRB" data-wow-delay="1s">
-                        <div class="portfolio-wrap">
-                            <img src="img/galerie_prb1.jpg" class="img-fluid" alt="">
-                            <div class="portfolio-info">
-                                <h4><a href="#">Web 1</a></h4>
-                                <p>Web</p>
-                                <div>
-                                    <a href="img/galerie_prb1.jpg" class="link-preview" data-lightbox="portfolio"
-                                       data-title="Web 1" title="Preview"><i class="ion ion-eye"></i></a>
-                                    <a href="#" class="link-details" title="More Details"><i
-                                                class="ion ion-android-open"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
+                      <div class="col-lg-4 col-md-6 portfolio-item filter-PRB" data-wow-delay="1s">
+                          <div class="portfolio-wrap">
+                              <img src="img/galerie_prb1.jpg" class="img-fluid" alt="">
+                              <div class="portfolio-info">
+                                  <h4><a href="#">Web 1</a></h4>
+                                  <p>Web</p>
+                                  <div>
+                                      <a href="img/galerie_prb1.jpg" class="link-preview" data-lightbox="portfolio"
+                                         data-title="Web 1" title="Preview"><i class="ion ion-eye"></i></a>
+                                      <a href="#" class="link-details" title="More Details"><i
+                                                  class="ion ion-android-open"></i></a>
+                                  </div>
+                              </div>
+                          </div>
+                      </div>
 
-                    <div class="col-lg-4 col-md-6 portfolio-item filter-PRB" data-wow-delay="1s">
-                        <div class="portfolio-wrap">
-                            <img src="img/galerie_prb2.jpg" class="img-fluid" alt="">
-                            <div class="portfolio-info">
-                                <h4><a href="#">Web 1</a></h4>
-                                <p>Web</p>
-                                <div>
-                                    <a href="img/galerie_prb2.jpg" class="link-preview" data-lightbox="portfolio"
-                                       data-title="Web 1" title="Preview"><i class="ion ion-eye"></i></a>
-                                    <a href="#" class="link-details" title="More Details"><i
-                                                class="ion ion-android-open"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
+                      <div class="col-lg-4 col-md-6 portfolio-item filter-PRB" data-wow-delay="1s">
+                          <div class="portfolio-wrap">
+                              <img src="img/galerie_prb2.jpg" class="img-fluid" alt="">
+                              <div class="portfolio-info">
+                                  <h4><a href="#">Web 1</a></h4>
+                                  <p>Web</p>
+                                  <div>
+                                      <a href="img/galerie_prb2.jpg" class="link-preview" data-lightbox="portfolio"
+                                         data-title="Web 1" title="Preview"><i class="ion ion-eye"></i></a>
+                                      <a href="#" class="link-details" title="More Details"><i
+                                                  class="ion ion-android-open"></i></a>
+                                  </div>
+                              </div>
+                          </div>
+                      </div>
 
-                    <div class="col-lg-4 col-md-6 portfolio-item filter-PRB" data-wow-delay="1s">
-                        <div class="portfolio-wrap">
-                            <img src="img/galerie_prb3.jpg" class="img-fluid" alt="">
-                            <div class="portfolio-info">
-                                <h4><a href="#">Web 1</a></h4>
-                                <p>Web</p>
-                                <div>
-                                    <a href="img/galerie_prb3.jpg" class="link-preview" data-lightbox="portfolio"
-                                       data-title="Web 1" title="Preview"><i class="ion ion-eye"></i></a>
-                                    <a href="#" class="link-details" title="More Details"><i
-                                                class="ion ion-android-open"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
+                      <div class="col-lg-4 col-md-6 portfolio-item filter-PRB" data-wow-delay="1s">
+                          <div class="portfolio-wrap">
+                              <img src="img/galerie_prb3.jpg" class="img-fluid" alt="">
+                              <div class="portfolio-info">
+                                  <h4><a href="#">Web 1</a></h4>
+                                  <p>Web</p>
+                                  <div>
+                                      <a href="img/galerie_prb3.jpg" class="link-preview" data-lightbox="portfolio"
+                                         data-title="Web 1" title="Preview"><i class="ion ion-eye"></i></a>
+                                      <a href="#" class="link-details" title="More Details"><i
+                                                  class="ion ion-android-open"></i></a>
+                                  </div>
+                              </div>
+                          </div>
+                      </div>
 
-                    <div class="col-lg-4 col-md-6 portfolio-item filter-PRB" data-wow-delay="1s">
-                        <div class="portfolio-wrap">
-                            <img src="img/galerie_prb4.jpg" class="img-fluid" alt="">
-                            <div class="portfolio-info">
-                                <h4><a href="#">Web 1</a></h4>
-                                <p>Web</p>
-                                <div>
-                                    <a href="img/galerie_prb4.jpg" class="link-preview" data-lightbox="portfolio"
-                                       data-title="Web 1" title="Preview"><i class="ion ion-eye"></i></a>
-                                    <a href="#" class="link-details" title="More Details"><i
-                                                class="ion ion-android-open"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
+                      <div class="col-lg-4 col-md-6 portfolio-item filter-PRB" data-wow-delay="1s">
+                          <div class="portfolio-wrap">
+                              <img src="img/galerie_prb4.jpg" class="img-fluid" alt="">
+                              <div class="portfolio-info">
+                                  <h4><a href="#">Web 1</a></h4>
+                                  <p>Web</p>
+                                  <div>
+                                      <a href="img/galerie_prb4.jpg" class="link-preview" data-lightbox="portfolio"
+                                         data-title="Web 1" title="Preview"><i class="ion ion-eye"></i></a>
+                                      <a href="#" class="link-details" title="More Details"><i
+                                                  class="ion ion-android-open"></i></a>
+                                  </div>
+                              </div>
+                          </div>
+                      </div>
 
-                </div>
+                  </div>
 
-            </div>
-        </section><!-- #portfolio -->
+              </div>
+          </section> #portfolio -->
 
 
 
         <!--==========================
           Team Section
         ============================-->
-        <section id="team">
-            <div class="container">
-                <div class="section-header">
-                    <h2 class="title" style="font-weight: bold;font-size: 30px">Nos Personnels</h2>
-                    <p></p>
+        <!--  <section id="team">
+                <div class="container">
+                    <div class="section-header">
+                        <h2 class="title" style="font-weight: bold;font-size: 30px">Nos Personnels</h2>
+                        <p></p>
+                    </div>
+
+                    <div class="row">
+
+                        <div class="col-lg-2 offset-lg-1 wow fadeInUp">
+                            <div class="member">
+                                <img src="style/img/team-4.jpg" class="img-fluid" alt="">
+                                <div class="member-info">
+                                    <div class="member-info-content">
+                                        <h4>Yoni Garreau</h4>
+                                        <span>Conseiller Habitat</span>
+                                        <span>TEL:06 86 98 44 82 </span>
+                                        <div class="social">
+                                            <a href=""><i class="fa fa-twitter"></i></a>
+                                            <a href=""><i class="fa fa-facebook"></i></a>
+                                            <a href=""><i class="fa fa-google-plus"></i></a>
+                                            <a href=""><i class="fa fa-linkedin"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-2  wow fadeInUp" data-wow-delay="0.1s">
+                            <div class="member">
+                                <img src="style/img/team-2.jpg" class="img-fluid" alt="">
+                                <div class="member-info">
+                                    <div class="member-info-content">
+                                        <h4>Philippe Gerard </h4>
+                                        <span>Conseiller Habitat</span>
+                                        <span>TEL:07 82 61 37 39</span>
+                                        <div class="social">
+                                            <a href=""><i class="fa fa-twitter"></i></a>
+                                            <a href=""><i class="fa fa-facebook"></i></a>
+                                            <a href=""><i class="fa fa-google-plus"></i></a>
+                                            <a href=""><i class="fa fa-linkedin"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-2  wow fadeInUp" data-wow-delay="1s">
+                            <div class="member">
+                                <img src="style/img/team-3.jpg" class="img-fluid" alt="">
+                                <div class="member-info">
+                                    <div class="member-info-content">
+                                        <h4>Cyrille Houi</h4>
+                                        <span>Conseiller Habitat</span>
+                                        <span>TEL:06 86 70 28 66</span>
+                                        <div class="social">
+                                            <a href=""><i class="fa fa-twitter"></i></a>
+                                            <a href=""><i class="fa fa-facebook"></i></a>
+                                            <a href=""><i class="fa fa-google-plus"></i></a>
+                                            <a href=""><i class="fa fa-linkedin"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-2  wow fadeInUp" data-wow-delay="0.3s">
+                            <div class="member">
+                                <img src="style/img/team-4.jpg" class="img-fluid" alt="">
+                                <div class="member-info">
+                                    <div class="member-info-content">
+                                        <h4>Tony Dorizon</h4>
+                                        <span>Conseiller Habitat</span>
+                                        <span>TEL:06 10 03 63 87</span>
+                                        <div class="social">
+                                            <a href=""><i class="fa fa-twitter"></i></a>
+                                            <a href=""><i class="fa fa-facebook"></i></a>
+                                            <a href=""><i class="fa fa-google-plus"></i></a>
+                                            <a href=""><i class="fa fa-linkedin"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-2  wow fadeInUp" data-wow-delay="0.3s">
+                            <div class="member">
+                                <img src="style/img/team-1.jpg" class="img-fluid" alt="">
+                                <div class="member-info">
+                                    <div class="member-info-content">
+                                        <h4>Valentin Sciare</h4>
+                                        <span>Conseiller Habitat</span>
+                                        <span>TEL:06 31 99 17 39</span>
+                                        <div class="social">
+                                            <a href=""><i class="fa fa-twitter"></i></a>
+                                            <a href=""><i class="fa fa-facebook"></i></a>
+                                            <a href=""><i class="fa fa-google-plus"></i></a>
+                                            <a href=""><i class="fa fa-linkedin"></i></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+
+                    </div>
+
                 </div>
-
-                <div class="row">
-
-                    <div class="col-lg-2 offset-lg-1 wow fadeInUp">
-                        <div class="member">
-                            <img src="style/img/team-4.jpg" class="img-fluid" alt="">
-                            <div class="member-info">
-                                <div class="member-info-content">
-                                    <h4>Yoni Garreau</h4>
-                                    <span>Conseiller Habitat</span>
-                                    <span>TEL:06 86 98 44 82 </span>
-                                    <div class="social">
-                                        <a href=""><i class="fa fa-twitter"></i></a>
-                                        <a href=""><i class="fa fa-facebook"></i></a>
-                                        <a href=""><i class="fa fa-google-plus"></i></a>
-                                        <a href=""><i class="fa fa-linkedin"></i></a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-2  wow fadeInUp" data-wow-delay="0.1s">
-                        <div class="member">
-                            <img src="style/img/team-2.jpg" class="img-fluid" alt="">
-                            <div class="member-info">
-                                <div class="member-info-content">
-                                    <h4>Philippe Gerard </h4>
-                                    <span>Conseiller Habitat</span>
-                                    <span>TEL:07 82 61 37 39</span>
-                                    <div class="social">
-                                        <a href=""><i class="fa fa-twitter"></i></a>
-                                        <a href=""><i class="fa fa-facebook"></i></a>
-                                        <a href=""><i class="fa fa-google-plus"></i></a>
-                                        <a href=""><i class="fa fa-linkedin"></i></a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-2  wow fadeInUp" data-wow-delay="1s">
-                        <div class="member">
-                            <img src="style/img/team-3.jpg" class="img-fluid" alt="">
-                            <div class="member-info">
-                                <div class="member-info-content">
-                                    <h4>Cyrille Houi</h4>
-                                    <span>Conseiller Habitat</span>
-                                    <span>TEL:06 86 70 28 66</span>
-                                    <div class="social">
-                                        <a href=""><i class="fa fa-twitter"></i></a>
-                                        <a href=""><i class="fa fa-facebook"></i></a>
-                                        <a href=""><i class="fa fa-google-plus"></i></a>
-                                        <a href=""><i class="fa fa-linkedin"></i></a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-2  wow fadeInUp" data-wow-delay="0.3s">
-                        <div class="member">
-                            <img src="style/img/team-4.jpg" class="img-fluid" alt="">
-                            <div class="member-info">
-                                <div class="member-info-content">
-                                    <h4>Tony Dorizon</h4>
-                                    <span>Conseiller Habitat</span>
-                                    <span>TEL:06 10 03 63 87</span>
-                                    <div class="social">
-                                        <a href=""><i class="fa fa-twitter"></i></a>
-                                        <a href=""><i class="fa fa-facebook"></i></a>
-                                        <a href=""><i class="fa fa-google-plus"></i></a>
-                                        <a href=""><i class="fa fa-linkedin"></i></a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-2  wow fadeInUp" data-wow-delay="0.3s">
-                        <div class="member">
-                            <img src="style/img/team-1.jpg" class="img-fluid" alt="">
-                            <div class="member-info">
-                                <div class="member-info-content">
-                                    <h4>Valentin Sciare</h4>
-                                    <span>Conseiller Habitat</span>
-                                    <span>TEL:06 31 99 17 39</span>
-                                    <div class="social">
-                                        <a href=""><i class="fa fa-twitter"></i></a>
-                                        <a href=""><i class="fa fa-facebook"></i></a>
-                                        <a href=""><i class="fa fa-google-plus"></i></a>
-                                        <a href=""><i class="fa fa-linkedin"></i></a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-
-                </div>
-
-            </div>
-        </section><!-- #team -->
+            </section> #team -->
 
 
 
@@ -1047,7 +1047,7 @@
                     </div>
 
                     <div class="col-lg-6">
-                        <div class="row">
+
                             <div class="col-md-5 info">
                                 <i class="ion-ios-location-outline"></i>
                                 <p>08 Rue du Foubourg Poissonnière ,75010,Paris,France</p>
@@ -1101,7 +1101,7 @@
 
                 </div>
 
-            </div>
+
         </section><!-- #contact -->
 
     </main>
