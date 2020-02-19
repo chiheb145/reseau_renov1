@@ -5,12 +5,10 @@
             <!-- Section Heading -->
             <div class="col-12">
                 <div class="text-center" style="">
-                    <br>
-                    <br>
-                    <b style="color: #ad1f79; font-size: 30px; width:50px">Traitement de Charpente</b>
-                    <br>
+                    <h2 style="color: #ad1f79; font-size: 30px; width:50px">Traitement de Charpente</h2>
+
                 </div>
-                <br>
+
                 <div class="row">
 
                     <div class="col-6">
