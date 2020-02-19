@@ -1,3 +1,4 @@
+
 @extends('layout.app')
 @section('content')
     <div class="container" style="background-color: #cbcfda; padding-top: 57px;">
