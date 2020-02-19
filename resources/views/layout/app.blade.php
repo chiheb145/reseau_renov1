@@ -135,7 +135,7 @@ Header
                         <strong>Adresse:</strong> 08 Rue du Foubourg Poissonnière ,<br>
                         75010,Paris,France <br>
                         <strong>Tel:</strong> 05 49 13 09 92<br>
-                        <strong>Email:</strong>info@example.com<br>
+                        <strong>Email:</strong>contact@resau-renov.fr
                     </p>
 
                     <div class="social-links">
