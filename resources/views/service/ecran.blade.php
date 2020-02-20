@@ -1,13 +1,13 @@
 @extends('layout.app')
 @section('content')
-    <div class="container" style="background-color: #ffffff; padding-top: 124px;margin-top: 61px;">
+    <div class="container" style="background-color: #ffffff; padding-top: 100px;">
         <div class="row">
             <!-- Section Heading -->
             <div class="col-12">
                 <div class="text-center" style="">
-                    <b style="color: #ad1f79; font-size: 30px; width:50px">ÉCRAN SOUS TOITURE</b>
+                    <h2 class="title_facade">ÉCRAN SOUS TOITURE</h2>
 
-                    <h2 style="color: #004a99;"><b>MONARFOL MICRO PERFORÉ</b></h2>
+                    <b class="title_facade1">MONARFOL MICRO PERFORÉ</b>
                 </div>
             </div>
         </div>
@@ -46,12 +46,12 @@
             </div>
         </div>
         <div class="row mt-5" >
-            <div class="col-lg-6 col-sm-12">
+            <div class="col-lg-6 col-sm-12 mb-2">
 
                 <img src="{{asset("style/img/ecran3.jpg")}}"
                      style="width: 100%;border-bottom-left-radius: 15px; border-bottom-right-radius: 15px;">
             </div>
-            <div class="col-lg-4 col-sm-12">
+            <div class="col-lg-4 col-sm-12 mb-2">
                 <img src="{{asset("style/img/ecran4.jpg")}}"
                      style="width: 100%;border-bottom-right-radius: 15px;border-bottom-left-radius: 15px;">
             </div>

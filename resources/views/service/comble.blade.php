@@ -1,14 +1,13 @@
 @extends('layout.app')
 @section('content')
 
-    <div class="container" style="background-color: #ffffff; padding-top: 124px;margin-top: 61px;">
+    <div class="container" style="background-color: #ffffff; padding-top: 100px;">
         <div class="row">
             <!-- Section Heading -->
             <div class="col-12">
-                <div class="text-center" style="">
-                    <br>
-                    <b style="color: #ad1f79; font-size: 30px; width:50px">ISOLATION COMBLES PERDUES</b><br>
-                    <b style="color: #004a99; font-size: 20px; width:50px"> RÉDUISEZ VOS DÉPENSES DE CHAUFFAGE JUSQU'À
+                <div class="text-center" >
+                    <h2 class="title_facade">ISOLATION COMBLES PERDUES</h2><br>
+                    <b class="title_facade1"> RÉDUISEZ VOS DÉPENSES DE CHAUFFAGE JUSQU'À
                         30 % ET APPRÉCIEZ UN TOUT NOUVEAU CONFORT DE VIE .</b>
                 </div>
             </div>

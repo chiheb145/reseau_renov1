@@ -1,11 +1,11 @@
 @extends('layout.app')
 @section('content')
-    <div class="container" style="background-color: #ffffff; padding-top: 124px;margin-top: 61px;">
+    <div class="container" style="background-color: #ffffff; padding-top: 100px;">
         <div class="row">
             <!-- Section Heading -->
             <div class="col-12">
                 <div class="text-center" style="">
-                    <b style="color: #ad1f79; font-size: 30px; width:50px">VENTILATION</b>
+                    <h2 class="title_facade">VENTILATION</h2>
                 </div>
             </div>
         </div>
@@ -46,19 +46,14 @@
                     <li>   Pose simplifiée : un seul diffuseur.</li>
                 </ul>
         </div>
-                <div class="row mt-5">
-                    <div class="col-lg-4 col-sm-12 ">
+                <div class="row mt-5 justify-content-center">
+                    <div class="col-lg-4 col-sm-11 offset-sm-1 ">
 
-                        <img src="{{asset("style/img/nf1.png")}}" style="width: 100%;
-    border-bottom-left-radius: 15px;
-    border-bottom-right-radius: 15px;">
+                        <img src="{{asset("style/img/nf1.png")}}" >
 
                     </div>
-                    <div class="col-lg-3 col-sm-12">
-                        <img src="{{asset("style/img/nf.jpg")}}" style="width: 100%;
-    border-bottom-left-radius: 15px;
-    border-bottom-right-radius: 15px;
-    ">
+                    <div class="col-lg-4 col-sm-11 offset-sm-1">
+                        <img src="{{asset("style/img/nf.jpg")}}" >
                     </div>
 
                 </div>

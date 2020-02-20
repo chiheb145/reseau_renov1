@@ -2,7 +2,7 @@
 @section('content')
 
 
-    <div class="container" style="background-color: white; padding-top: 158px;">
+    <div class="container" style="background-color: white; padding-top: 100px;">
         <div class="row">
             <!-- Section Heading -->
             <div class="col-12">

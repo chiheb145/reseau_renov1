@@ -1,13 +1,13 @@
 @extends('layout.app')
 @section('content')
-    <div class="container" style="background-color: #ffffff; padding-top: 124px;margin-top: 61px;">
+    <div class="container" style="background-color: #ffffff; padding-top:100px;">
         <div class="row">
             <!-- Section Heading -->
             <div class="col-12">
                 <div class="text-center" style="">
-                    <b style="color: #ad1f79; font-size: 30px; width:50px">RADIATEURS</b>
-                    <br>
-                    <h2 style="color: #004a99;"><b>DÉCOUVREZ TOUTES NOS SOLUTIONS</b></h2>
+                    <h2 class="title_facade">RADIATEURS</h2>
+
+                    <b class="title_facade1">DÉCOUVREZ TOUTES NOS SOLUTIONS</b>
                 </div>
             </div>
         </div>

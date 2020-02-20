@@ -2,7 +2,7 @@
 @section('content')
 
 
-    <div class="container" style="background-color: white; padding-top: 158px;">
+    <div class="container" style="background-color: white; padding-top: 100px;">
 
 
 
@@ -19,27 +19,19 @@
         <div class="row justify-content-center mt-5">
             <div class="col-lg-3 col-sm-12">
                 <img src="{{asset("style/img/mince.jpg")}}" style=" width: 90%;
-                /* border-bottom-left-radius: 15px; */
-                border-bottom-right-radius: 15px;
-                padding-top: 49px;
-                padding-left: -18px;
-                height: 242px;">
+                 border-bottom-left-radius: 15px;
+                border-bottom-right-radius: 15px;">
             </div>
             <div class="col-lg-3 col-sm-12"><br>
                 <img src="{{asset("style/img/iso1.jpg")}}" style="width: 90%;
-    /* border-bottom-left-radius: 15px; */
+     border-bottom-left-radius: 15px;
     border-bottom-right-radius: 15px;
-    padding-top: 23px;
-    padding-left: -18px;
-    height: 214px;">
+   ">
             </div>
             <div class="col-lg-3 col-sm-12"><br>
                 <img src="{{asset("style/img/iso2.gif")}}" style="width: 90%;
-    /* border-bottom-left-radius: 15px; */
-    border-bottom-right-radius: 15px;
-    padding-top: 23px;
-    padding-left: -18px;
-    height: 214px;">
+     border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;">
             </div>
         </div>
         <div class="row justify-content-center mt-5">
@@ -64,17 +56,11 @@
 
         </div>
         <div class="row justify-content-center mt-5">
-            <div class="col-lg-4 col-sm-12">
-                <img src="{{asset("style/img/iso77.jpg")}}" style="height: 371px;
-    width: 293px;
-    margin-top: 0px;
-    padding-top: 95px;">
+            <div class="col-lg-4 col-sm-12 mb-3">
+                <img src="{{asset("style/img/iso77.jpg")}}" style="width: 100%;border-bottom-left-radius: 15px; border-bottom-right-radius: 15px;">
             </div>
-            <div class="col-lg-5 col-sm-12"><br>
-                <img src="{{asset("style/img/iso44.jpg")}}"  style="height: 347px;
-    width: 293px;
-    margin-top: 0px;
-    padding-top: 68px;">
+            <div class="col-lg-5 col-sm-12 mb-3">
+                <img src="{{asset("style/img/iso44.jpg")}}"  style="width: 100%;border-bottom-left-radius: 15px; border-bottom-right-radius: 15px;">
             </div>
 
         </div>

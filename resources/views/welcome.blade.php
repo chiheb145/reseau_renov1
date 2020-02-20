@@ -145,7 +145,7 @@
                     <div class="row">
                         <img src="{{asset('img/ri_111.png')}}" class="header_img_people">
                     </div>
-                    <div class="row reseau_renov_bleu" style="margin-top: -55px;height: 230px">
+                    <div class="row reseau_renov_bleu" style="margin-top: -55px;height: 240px">
                         <div class="col-lg-10 offset-lg-1 text-center " style="margin-top: 80px">
                             <p class="p_header">Peinture intérieur extérieur | Façade Charpente | Couverture | Isolation |
                                 Ventilation Tout traitement (bois, charpente, couverture…) Électricité générale | Énergie
