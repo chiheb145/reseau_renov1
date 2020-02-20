@@ -8,25 +8,25 @@
     <meta content="" name="description">
 
     <!-- Favicons -->
-    <link href="{{asset('style')}}img/favicon.png" rel="icon">
-    <link href="{{asset('style')}}img/apple-touch-icon.png" rel="apple-touch-icon">
+    <link href="{{asset('style/img/favicon.png')}}" rel="icon">
+    <link href="{{asset('style/img/apple-touch-icon.png')}}" rel="apple-touch-icon">
 
     <!-- Google Fonts -->
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,700,700i|Montserrat:300,400,500,700"
           rel="stylesheet">
 
     <!-- Bootstrap CSS File -->
-    <link href="{{asset('')}}style/lib/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="{{asset('style/lib/bootstrap/css/bootstrap.min.css')}}" rel="stylesheet">
 
     <!-- Libraries CSS Files -->
-    <link href="{{asset('')}}style/lib/font-awesome/css/font-awesome.min.css" rel="stylesheet">
-    <link href="{{asset('')}}style/lib/animate/animate.min.css" rel="stylesheet">
-    <link href="{{asset('')}}style/lib/ionicons/css/ionicons.min.css" rel="stylesheet">
-    <link href="{{asset('')}}style/lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
-    <link href="{{asset('')}}style/lib/lightbox/css/lightbox.min.css" rel="stylesheet">
+    <link href="{{asset('style/lib/font-awesome/css/font-awesome.min.css')}}" rel="stylesheet">
+    <link href="{{asset('style/lib/animate/animate.min.css')}}" rel="stylesheet">
+    <link href="{{asset('style/lib/ionicons/css/ionicons.min.css')}}" rel="stylesheet">
+    <link href="{{asset('style/lib/owlcarousel/assets/owl.carousel.min.css')}}" rel="stylesheet">
+    <link href="{{asset('style/lib/lightbox/css/lightbox.min.css')}}" rel="stylesheet">
 
     <!-- Main Stylesheet File -->
-    <link href="{{asset('')}}style/css/style.css" rel="stylesheet">
+    <link href="{{asset('style/css/style.css')}}" rel="stylesheet">
 
     <!-- =======================================================
       Theme Name: NewBiz
@@ -77,7 +77,7 @@ Header
             <!-- <h1 class="text-light"><a href="#header"><span>NewBiz</span></a></h1> -->
 
             <div class="container clearfix">
-                <a href="#intro" class="logo"><img src="style/img/logo11.png" width="80px" alt="" class="img-fluid"></a>
+                <a href="#intro" class="logo"><img src="{{asset('style/img/logo11.png')}}" width="80px" alt="" class="img-fluid"></a>
 
 
             </div>
@@ -174,22 +174,22 @@ Header
 <!-- <div id="preloader"></div> -->
 
 <!-- JavaScript Libraries -->
-<script src="{{asset('')}}style/lib/jquery/jquery.min.js"></script>
-<script src="{{asset('')}}style/lib/jquery/jquery-migrate.min.js"></script>
-<script src="{{asset('')}}style/lib/bootstrap/js/bootstrap.bundle.min.js"></script>
-<script src="{{asset('')}}style/lib/easing/easing.min.js"></script>
-<script src="{{asset('')}}style/lib/mobile-nav/mobile-nav.js"></script>
-<script src="{{asset('')}}style/lib/wow/wow.min.js"></script>
-<script src="{{asset('')}}style/lib/waypoints/waypoints.min.js"></script>
-<script src="{{asset('')}}style/lib/counterup/counterup.min.js"></script>
-<script src="{{asset('')}}style/lib/owlcarousel/owl.carousel.min.js"></script>
-<script src="{{asset('')}}style/lib/isotope/isotope.pkgd.min.js"></script>
-<script src="{{asset('')}}style/lib/lightbox/js/lightbox.min.js"></script>
+<script src="{{asset('style/lib/jquery/jquery.min.js')}}"></script>
+<script src="{{asset('style/lib/jquery/jquery-migrate.min.js')}}"></script>
+<script src="{{asset('style/lib/bootstrap/js/bootstrap.bundle.min.js')}}"></script>
+<script src="{{asset('style/lib/easing/easing.min.js')}}"></script>
+<script src="{{asset('style/lib/mobile-nav/mobile-nav.js')}}"></script>
+<script src="{{asset('style/lib/wow/wow.min.js')}}"></script>
+<script src="{{asset('style/lib/waypoints/waypoints.min.js')}}"></script>
+<script src="{{asset('style/lib/counterup/counterup.min.js')}}"></script>
+<script src="{{asset('style/lib/owlcarousel/owl.carousel.min.js')}}"></script>
+<script src="{{asset('style/lib/isotope/isotope.pkgd.min.js')}}"></script>
+<script src="{{asset('style/lib/lightbox/js/lightbox.min.js')}}"></script>
 <!-- Contact Form JavaScript File -->
-<script src="{{asset('')}}style/contactform/contactform.js"></script>
+<script src="{{asset('style/contactform/contactform.js')}}"></script>
 
 <!-- Template Main Javascript File -->
-<script src="{{asset('')}}style/js/main.js"></script>
+<script src="{{asset('style/js/main.js')}}"></script>
 
 
 </body>
