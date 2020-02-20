@@ -113,7 +113,7 @@ Header
             <div class="row">
 
                 <div class="col-lg-3  col-sm-12 text-center  footer-info">
-                    <img src="http://reseau_renov1.test/style/img/pict222.png" style="width: 91%;">
+                    <img src="{{asset("style/img/pict222.png")}}" style="width: 91%;">
 
                 </div>
 
