@@ -77,7 +77,7 @@ Header
             <!-- <h1 class="text-light"><a href="#header"><span>NewBiz</span></a></h1> -->
 
             <div class="container clearfix">
-                <a href="#intro" class="logo"><img src="{{asset('style/img/logo11.png')}}" width="80px" alt="" class="img-fluid"></a>
+                <a href="{{route('welcome')}}" class="logo"><img src="{{asset('style/img/reseau-renov-logo.png')}}" width="80px" alt="" class="img-fluid"></a>
 
 
             </div>
@@ -113,7 +113,7 @@ Header
             <div class="row">
 
                 <div class="col-lg-3  col-sm-12 text-center  footer-info">
-                    <img src="{{asset("style/img/pict222.png")}}" style="width: 91%;">
+                    <img src="{{asset("style/img/reseau-renov-map.png")}}" style="width: 91%;">
 
                 </div>
 
@@ -149,7 +149,7 @@ Header
                 </div>
 
                 <div class="col-lg-3  col-sm-12 text-center footer-newsletter">
-                    <h4>Réseau Rénov</h4>
+                    <h4><a href="{{route('welcome')}}">Réseau Rénov</a></h4>
                     <p>Peinture intérieur extérieur | Façade Charpente | Couverture | Isolation | Ventilation Tout traitement (bois, charpente, couverture…) Électricité générale | Énergie renouvelable</p>
 
                 </div>

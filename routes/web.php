@@ -14,36 +14,36 @@
 Route::get('/', function () {
     return view('welcome');
 })->name('welcome');
-Route::get('/toiture',function (){
+Route::get('reseau_renov/toiture',function (){
    return view('service.toiture');
 });
-Route::get('/charpente',function (){
+Route::get('reseau_renov/charpente',function (){
     return view('service.charpente');
 });
-Route::get('/comble',function (){
+Route::get('reseau_renov/comble',function (){
     return view('service.comble');
 });
-Route::get('/isolation',function (){
+Route::get('reseau_renov/isolation',function (){
     return view('service.isolation');
 });
-Route::get('/humidité',function (){
+Route::get('reseau_renov/humidité',function (){
     return view('service.humidité');
 });
 
-Route::get('/facade',function (){
+Route::get('reseau_renov/facade',function (){
     return view('service.facade');
 });
-Route::get('/thermique',function (){
+Route::get('reseau_renov/thermique',function (){
     return view('service.thermique');
 });
 
-Route::get('/ventilation',function (){
+Route::get('reseau_renov/ventilation',function (){
     return view('service.ventilation');
 });
-Route::get('/ecran',function (){
+Route::get('reseau_renov/ecran',function (){
     return view('service.ecran');
 });
-Route::get('/radiateur',function (){
+Route::get('reseau_renov/radiateur',function (){
     return view('service.radiateur');
 });
 

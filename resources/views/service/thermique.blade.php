@@ -16,11 +16,11 @@
         </div>
         <div class="row mt-3">
             <div class="col-lg-6 col-sm-12 mt-2">
-                <img src="{{asset("style/img/prb2.jpg")}}" style="width: 100%;border-bottom-left-radius: 15px;border-bottom-right-radius: 15px;">
+                <img src="{{asset("style/img/reseau-renov-isolation-thermique-1.jpg")}}" style="width: 100%;border-bottom-left-radius: 15px;border-bottom-right-radius: 15px;">
             </div>
             <div class="col-lg-3 col-sm-12 mt-2">
 
-                <img src="{{asset("style/img/prb.jpeg")}}" style="width: 100%;border-bottom-left-radius: 15px;border-bottom-right-radius: 15px;">
+                <img src="{{asset("style/img/reseau-renov-isolation-thermique-2.jpeg")}}" style="width: 100%;border-bottom-left-radius: 15px;border-bottom-right-radius: 15px;">
             </div>
         </div>
 

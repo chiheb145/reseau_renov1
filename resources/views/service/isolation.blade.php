@@ -18,18 +18,18 @@
         </div>
         <div class="row justify-content-center mt-5">
             <div class="col-lg-3 col-sm-12">
-                <img src="{{asset("style/img/mince.jpg")}}" style=" width: 90%;
+                <img src="{{asset("style/img/reseau-renov-mince.jpg")}}" style=" width: 90%;
                  border-bottom-left-radius: 15px;
                 border-bottom-right-radius: 15px;">
             </div>
             <div class="col-lg-3 col-sm-12"><br>
-                <img src="{{asset("style/img/iso1.jpg")}}" style="width: 90%;
+                <img src="{{asset("style/img/reseau-renov-isolation-1.jpg")}}" style="width: 90%;
      border-bottom-left-radius: 15px;
     border-bottom-right-radius: 15px;
    ">
             </div>
             <div class="col-lg-3 col-sm-12"><br>
-                <img src="{{asset("style/img/iso2.gif")}}" style="width: 90%;
+                <img src="{{asset("style/img/reseau-renov-isolation-2.gif")}}" style="width: 90%;
      border-bottom-left-radius: 15px;
     border-bottom-right-radius: 15px;">
             </div>
@@ -39,8 +39,8 @@
                 <h2>Un isolant 2 en 1 :</h2>
             </div>
             <div class="col-lg-5 col-sm-12"><br>
-                <p>Avec l'isolant mince réflecteur , il suffit d'un seul produit et d'une seule opération pour traiter à la fois l'isolation et l'étanchéité.</p>
-                <p>Il permet suivant l’application d’économiser la pose d’un parevapeur,d’un écran de sous-toiture ou  d’un écran pare-pluie.</p>
+                <p>Avec l'<b>isolant</b> mince réflecteur , il suffit d'un seul produit et d'une seule opération pour traiter à la fois l'isolation et l'étanchéité.</p>
+                <p>Il permet suivant l’application d’économiser la pose d’un parevapeur,d’un écran de sous-<b>toiture</b> ou  d’un écran pare-pluie.</p>
 
                 <ul><li><b>PERFORMANCE MAXIMALE DANS UN MINIMUM D'ÉPAISSEUR :</b> </li>
                 </ul>
@@ -57,10 +57,10 @@
         </div>
         <div class="row justify-content-center mt-5">
             <div class="col-lg-4 col-sm-12 mb-3">
-                <img src="{{asset("style/img/iso77.jpg")}}" style="width: 100%;border-bottom-left-radius: 15px; border-bottom-right-radius: 15px;">
+                <img src="{{asset("style/img/reseau-renov-isolation-3.jpg")}}" style="width: 100%;border-bottom-left-radius: 15px; border-bottom-right-radius: 15px;">
             </div>
             <div class="col-lg-5 col-sm-12 mb-3">
-                <img src="{{asset("style/img/iso44.jpg")}}"  style="width: 100%;border-bottom-left-radius: 15px; border-bottom-right-radius: 15px;">
+                <img src="{{asset("style/img/reseau-renov-isolation-4.jpg")}}"  style="width: 100%;border-bottom-left-radius: 15px; border-bottom-right-radius: 15px;">
             </div>
 
         </div>

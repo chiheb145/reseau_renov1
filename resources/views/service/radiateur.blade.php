@@ -33,7 +33,7 @@
                 </ul>
             </div>
             <div class="col-lg-4 col-sm-12">
-                <img src="{{asset("style/img/radia1.jpg")}}"
+                <img src="{{asset("style/img/reseau-renov-radiateur-1.jpg")}}"
                      style="width: 100%;border-bottom-left-radius: 15px;border-bottom-right-radius: 15px;">
             </div>
         </div>
@@ -48,10 +48,10 @@
             </div>
         <div class="row mt-5">
             <div class="col-lg-6 col-sm-12 mb-3" >
-                <img src="{{asset("style/img/radia2.jpg")}}" style="width: 100%;border-bottom-left-radius: 15px;border-bottom-right-radius: 15px;">
+                <img src="{{asset("style/img/reseau-renov-radiateur-2.jpg")}}" style="width: 100%;border-bottom-left-radius: 15px;border-bottom-right-radius: 15px;">
             </div>
             <div class="col-lg-4 col-sm-12 mb-3" >
-                <img src="{{asset("style/img/radia3.jpg")}}" style="width: 100%;border-bottom-left-radius: 15px;border-bottom-right-radius: 15px;">
+                <img src="{{asset("style/img/reseau-renov-radiateur-3.jpg")}}" style="width: 100%;border-bottom-left-radius: 15px;border-bottom-right-radius: 15px;">
             </div>
         </div>
     </div>

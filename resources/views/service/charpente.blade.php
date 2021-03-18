@@ -14,8 +14,8 @@
 
             <div class="col-lg-12 col-sm-12">
 
-                <p> Votre charpente est menacée…</p>
-                <p> Nos spécialistes sauront avec précision quel prédateur menace votre charpente :</p>
+                <p> Votre <b>charpente</b> est menacée…</p>
+                <p> Nos spécialistes sauront avec précision quel prédateur menace votre <b>charpente</b> :</p>
                 <ul>
                     <li>les insectes à larves xylophages.</li>
                     <li>les insectes xylophages.</li>
@@ -27,12 +27,12 @@
             <div class="col-lg-12 col-sm-12">
 
                 <p> Un applicateur professionnel agréé ,
-                    un traitement efficace contrôlé : Une charpente protégée !</p>
+                    un traitement efficace contrôlé : Une <b>charpente</b> protégée !</p>
             </div>
         </div>
         <div class="row  justify-content-center mt-2">
             <div class="col-lg-8 col-sm-12">
-                <img src="{{asset("style/img/charp.jpg")}}" style="width: 100%;border-bottom-left-radius: 15px;border-bottom-right-radius: 15px;">
+                <img src="{{asset("style/img/reseau-renov-charpente.jpg")}}" style="width: 100%;border-bottom-left-radius: 15px;border-bottom-right-radius: 15px;">
             </div>
 
         </div>
@@ -43,7 +43,7 @@
                     <li><b class="title_facade1"> Sondage-Buchage :</b></li>
                 </ul>
                 <p> Cette opération permet de vérifier avec précision la résistance mécanique des pièces de bois de
-                    votre charpente . Après cette opération nous pouvons être amenés à vous conseiller de renforcer ou
+                    votre <b>charpente</b> . Après cette opération nous pouvons être amenés à vous conseiller de renforcer ou
                     de remplacer certaines pièces.</p>
 
                 <ul>

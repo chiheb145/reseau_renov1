@@ -134,7 +134,7 @@
                 <div class="col-lg-5 reseau_renov_blanc ">
                     <div class="row reseau_renov_blanc">
                         <div class="col-lg-12 mt-4 text-center">
-                            <img src="style/img/logo11.png" width="100px" alt="">
+                            <img src="style/img/reseau-renov-logo.png" width="100px" alt="Réseau Rénov">
                         </div>
                         <div class="col-lg-12 mb-2 text-center">
                             <span class="span1" style="font-size: 9px">Sublimons votre maison!</span>
@@ -143,7 +143,7 @@
 
                     </div>
                     <div class="row">
-                        <img src="{{asset('img/ri_111.png')}}" class="header_img_people">
+                        <img src="{{asset('img/reseau-renov-header.png')}}" class="header_img_people">
                     </div>
                     <div class="row reseau_renov_bleu" style="margin-top: -55px;height: 240px">
                         <div class="col-lg-10 offset-lg-1 text-center " style="margin-top: 80px">
@@ -179,7 +179,7 @@
                             </div>
                             <div class="row reseau_renov_bleu">
                                 <div class="col-lg-6 offset-lg-2">
-                                    <img src="{{asset('style/img/pict222.png')}}" style="width: 100%">
+                                    <img src="{{asset('style/img/reseau-renov-map.png')}}" style="width: 100%">
                                 </div>
 
                             </div>
@@ -193,7 +193,7 @@
                     <div class="row reseau_renov_blanc reseau_renov_radius1">
                         <div class="col-lg-3 offset-lg-3 logo2 ">
                             <div class="row justify-content-center">
-                                <img src="style/img/logo11.png" width="100px" alt="">
+                                <img src="style/img/reseau-renov-logo.png" width="100px" alt="">
                             </div>
                             <div class="row justify-content-center">
                                 <span class="span1" style="font-size: 8px;font-weight: bold">Sublimons votre maison!</span>
@@ -253,12 +253,12 @@
                     <div class="col-lg-12 reseau_renov_blanc reseau_renov_radius1  " >
                         <div class="row reseau_renov_bleu" style="border-bottom-left-radius: 2750px 414px;border-bottom-right-radius: 750px 318px; ">
 
-                            <img src="img/ri_31.png" class="img-fluid reseau_renov_radius1" >
+                            <img src="img/reseau-renov-regroupement.png" class="img-fluid reseau_renov_radius1" >
 
                             <div class="col-lg-12 reseau_renov_bleu" style="border-bottom-left-radius: 2750px 414px;border-bottom-right-radius: 750px 318px;">
                                 <div class="row">
                                     <div class="col-lg-6 offset-md-5 mt-5 mb-5 ">
-                                        <p class="description2" style="color: whitesmoke"><span style="font-weight: bold;font-size: 22px;color: #ffffff">RÉSEAU RÉNOV </span>est le regroupement, dans une même société, de plusieurs
+                                        <p class="description2" style="color: whitesmoke"><a href="http://reseau_renov1.test/"><span style="font-weight: bold;font-size: 22px;color: #ffffff">RÉSEAU RÉNOV </span></a>est le regroupement, dans une même société, de plusieurs
                                             professionnels ayant des domaines d’expertises distincts mais complémentaires.<br>
                                             C’est cette synergie qui nous permet de proposer à nos clients, dans
                                             toutes ces régions, des prestations complètes d’amélioration de l’habitat.</p>
@@ -285,7 +285,7 @@
                                 <div class="row mt-3 mb-5">
                                     <div class="col-lg-3 pt-3 ">
                                         <div class="row justify-content-center">
-                                            <img src="{{asset('img/s_1.png')}} " style="width: 100px" >
+                                            <img src="{{asset('img/reseau-renov-garantie-decennale.png')}} " style="width: 100px" >
                                         </div>
                                         <div class="row">
 
@@ -306,7 +306,7 @@
                                     </div>
                                     <div class="col-lg-3 pt-3 text-center">
                                         <div class="row justify-content-center">
-                                            <img src="{{asset('img/s_2.png')}} " style="width: 100px" >
+                                            <img src="{{asset('img/reseau-renov-produit-qualite.png')}} " style="width: 100px" >
                                         </div>
                                         <div class="row ">
 
@@ -325,7 +325,7 @@
                                     </div>
                                     <div class="col-lg-3 pt-3 text-center">
                                         <div class="row justify-content-center">
-                                            <img src="{{asset('img/s_3.png')}} " style="width: 100px" >
+                                            <img src="{{asset('img/reseau-renov-conseils-personnalises.png')}} " style="width: 100px" >
                                         </div>
                                         <div class="row">
                                             <div class="col-lg-12 text-center">
@@ -347,7 +347,7 @@
                                     </div>
                                     <div class="col-lg-3 pt-3 text-center">
                                         <div class="row justify-content-center">
-                                            <img src="{{asset('img/s_4.png')}} " style="width: 100px" >
+                                            <img src="{{asset('img/reseau-renov-assistance.png')}} " style="width: 100px" >
                                         </div>
                                         <div class="row ">
 
@@ -378,7 +378,7 @@
                                     nous réalisons assureront la longévité de votre bien immobilier.</p>
                             </div>
                             <div class="col-lg-12 text-center">
-                                <img src="{{asset('img/logo_rose.png')}} " style="width: 100px" >
+                                <img src="{{asset('img/reseau-renov-logo-rose.png')}} " style="width: 100px" >
                             </div>
 
                         </div>
@@ -417,7 +417,7 @@
                         <div class="wow bounceInUp" data-wow-duration="1.4s">
                             <div class="box1">
                                 <div class="row row_service">
-                                    <img src="style/img/toit.jpg" class="col-md-5 col-sm-12 ">
+                                    <img src="style/img/reseau-renov-traitement-toiture.jpg" class="col-md-5 col-sm-12 ">
 
                                     <div class="col-md-7 col-sm-12 ">
 
@@ -429,7 +429,7 @@
                                 </div>
                                 <div class="row" >
                                     <div class="col-12">
-                                        <button type="button" class="btn btn-link float-right" style="color: #bd1b72"><a href="{{asset('/toiture')}}">Voir Plus</a> </button>
+                                        <button type="button" class="btn btn-link float-right" style="color: #bd1b72"><a href="{{asset('reseau_renov/toiture')}}">Voir Plus</a> </button>
                                     </div>
                                 </div>
 
@@ -442,7 +442,7 @@
                         <div class="wow bounceInUp" data-wow-duration="1.4s">
                             <div class="box1">
                                 <div class="row row_service">
-                                    <img src="style/img/serv2.jpg" class="col-md-5 col-sm-12">
+                                    <img src="style/img/reseau-renov-traitement-charpente.jpg" class="col-md-5 col-sm-12">
 
                                     <div class="col-md-7 col-sm-12 ">
 
@@ -461,7 +461,7 @@
 
                                 <div class="row">
                                     <div class="col-12">
-                                        <button type="button" class="btn btn-link float-right" style="color: #bd1b72"><a href="{{asset('/charpente')}}">Voir Plus</a> </button>
+                                        <button type="button" class="btn btn-link float-right" style="color: #bd1b72"><a href="{{asset('reseau_renov/charpente')}}">Voir Plus</a> </button>
                                     </div>
                                 </div>
 
@@ -474,7 +474,7 @@
                         <div class="wow bounceInUp" data-wow-duration="1.4s">
                             <div class="box1">
                                 <div class="row row_service">
-                                    <img src="style/img/serv4.jpg" class="col-md-5 col-sm-12 ">
+                                    <img src="style/img/reseau-renov-isolation-combles-perdues.jpg" class="col-md-5 col-sm-12 ">
 
                                     <div class="col-md-7 col-sm-12 ">
 
@@ -489,7 +489,7 @@
                                 </div>
                                 <div class="row">
                                     <div class="col-12">
-                                        <button type="button" class="btn btn-link float-right" style="color: #bd1b72"><a href="{{asset('/comble')}}">Voir Plus</a> </button>
+                                        <button type="button" class="btn btn-link float-right" style="color: #bd1b72"><a href="{{asset('reseau_renov/comble')}}">Voir Plus</a> </button>
                                     </div>
                                 </div>
 
@@ -502,7 +502,7 @@
                         <div class="wow bounceInUp" data-wow-duration="1.4s">
                             <div class="box1">
                                 <div class="row row_service" >
-                                    <img src="style/img/serv5.jpg" class="col-md-5 col-sm-12 ">
+                                    <img src="style/img/reseau-renov-isolation-toiture.jpg" class="col-md-5 col-sm-12 ">
 
                                     <div class="col-md-7 col-sm-12 ">
 
@@ -516,7 +516,7 @@
                                 </div>
                                 <div class="row">
                                     <div class="col-12">
-                                        <button type="button" class="btn btn-link float-right" style="color: #bd1b72"><a href="{{asset('/isolation')}}">Voir Plus</a> </button>
+                                        <button type="button" class="btn btn-link float-right" style="color: #bd1b72"><a href="{{asset('reseau_renov/isolation')}}">Voir Plus</a> </button>
                                     </div>
                                 </div>
 
@@ -529,7 +529,7 @@
                         <div class="wow bounceInUp" data-wow-duration="1.4s">
                             <div class="box1">
                                 <div class="row row_service" >
-                                    <img src="style/img/serv6.jpg" class="col-md-5 col-sm-12 ">
+                                    <img src="style/img/reseau-renov-traitement-anti-humidite.jpg" class="col-md-5 col-sm-12 ">
 
                                     <div class="col-md-7 col-sm-12 ">
 
@@ -545,7 +545,7 @@
                                 </div>
                                 <div class="row">
                                     <div class="col-12">
-                                        <button type="button" class="btn btn-link float-right" style="color: #bd1b72"><a href="{{asset('/humidité')}}">Voir Plus</a> </button>
+                                        <button type="button" class="btn btn-link float-right" style="color: #bd1b72"><a href="{{asset('reseau_renov/humidité')}}">Voir Plus</a> </button>
                                     </div>
                                 </div>
 
@@ -558,7 +558,7 @@
                         <div class="wow bounceInUp" data-wow-duration="1.4s">
                             <div class="box1">
                                 <div class="row row_service" >
-                                    <img src="style/img/serv7.jpg" class="col-md-5 col-sm-12 ">
+                                    <img src="style/img/reseau-renov-traitement-facades.jpg" class="col-md-5 col-sm-12 ">
 
                                     <div class="col-md-7 col-sm-12 ">
 
@@ -573,7 +573,7 @@
                                 </div>
                                 <div class="row">
                                     <div class="col-12">
-                                        <button type="button" class="btn btn-link float-right" style="color: #bd1b72"><a href="{{asset('/facade')}}">Voir Plus</a> </button>
+                                        <button type="button" class="btn btn-link float-right" style="color: #bd1b72"><a href="{{asset('reseau_renov/facade')}}">Voir Plus</a> </button>
                                     </div>
                                 </div>
 
@@ -587,7 +587,7 @@
                         <div class="wow bounceInUp" data-wow-duration="1.4s">
                             <div class="box1">
                                 <div class="row row_service" >
-                                    <img src="style/img/serv8.jpg" class="col-md-5 col-sm-12 ">
+                                    <img src="style/img/reseau-renov-isolation-thermique-exterieure.jpg" class="col-md-5 col-sm-12 ">
 
                                     <div class="col-md-7 col-sm-12 ">
 
@@ -602,7 +602,7 @@
 
                                 <div class="row">
                                     <div class="col-12">
-                                        <button type="button" class="btn btn-link float-right" style="color: #bd1b72"><a href="{{asset('/thermique')}}">Voir Plus</a> </button>
+                                        <button type="button" class="btn btn-link float-right" style="color: #bd1b72"><a href="{{asset('reseau_renov/thermique')}}">Voir Plus</a> </button>
                                     </div>
                                 </div>
 
@@ -615,7 +615,7 @@
                         <div class="wow bounceInUp" data-wow-duration="1.4s">
                             <div class="box1">
                                 <div class="row row_service" >
-                                    <img src="style/img/serv11.png" class="col-md-5 col-sm-12 ">
+                                    <img src="style/img/reseau-renov-ventilation.png" class="col-md-5 col-sm-12 ">
 
                                     <div class="col-md-7 col-sm-12 ">
 
@@ -630,7 +630,7 @@
 
                                 <div class="row">
                                     <div class="col-12">
-                                        <button type="button" class="btn btn-link float-right" style="color: #bd1b72"><a href="{{asset('/ventilation')}}">Voir Plus</a> </button>
+                                        <button type="button" class="btn btn-link float-right" style="color: #bd1b72"><a href="{{asset('reseau_renov/ventilation')}}">Voir Plus</a> </button>
                                     </div>
                                 </div>
 
@@ -643,7 +643,7 @@
                         <div class="wow bounceInUp" data-wow-duration="1.4s">
                             <div class="box1">
                                 <div class="row row_service" >
-                                    <img src="style/img/ecran.jpg" class="col-md-5 col-sm-12 ">
+                                    <img src="style/img/reseau-renov-ecran-toiture.jpg" class="col-md-5 col-sm-12 ">
 
                                     <div class="col-md-7 col-sm-12 ">
 
@@ -658,7 +658,7 @@
 
                                 <div class="row">
                                     <div class="col-12">
-                                        <button type="button" class="btn btn-link float-right" style="color: #bd1b72"><a href="{{asset('/ecran')}}">Voir Plus</a> </button>
+                                        <button type="button" class="btn btn-link float-right" style="color: #bd1b72"><a href="{{asset('reseau_renov/ecran')}}">Voir Plus</a> </button>
                                     </div>
                                 </div>
 
@@ -671,7 +671,7 @@
                         <div class="wow bounceInUp" data-wow-duration="1.4s">
                             <div class="box1">
                                 <div class="row row_service" >
-                                    <img src="style/img/radia.jpg" class="col-md-5 col-sm-12 ">
+                                    <img src="style/img/reseau-renov-radiateurs.jpg" class="col-md-5 col-sm-12 ">
 
                                     <div class="col-md-7 col-sm-12">
 
@@ -686,7 +686,7 @@
 
                                 <div class="row">
                                     <div class="col-12">
-                                        <button type="button" class="btn btn-link float-right" style="color: #bd1b72"><a href="{{asset('/radiateur')}}">Voir Plus</a> </button>
+                                        <button type="button" class="btn btn-link float-right" style="color: #bd1b72"><a href="{{asset('reseau_renov/radiateur')}}">Voir Plus</a> </button>
                                     </div>
                                 </div>
 

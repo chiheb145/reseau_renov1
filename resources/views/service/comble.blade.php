@@ -14,15 +14,15 @@
         </div>
         <div class="row mt-3">
             <div class="col-lg-3 col-sm-12 offset-lg-1 mt-2">
-                <img src="{{asset("style/img/comb2.jpg")}}"
+                <img src="{{asset("style/img/reseau-renov-comble-2.jpg")}}"
                      style="width: 100%;border-bottom-left-radius: 15px;border-bottom-right-radius: 15px;">
             </div>
             <div class="col-lg-3 col-sm-12 mt-2">
-                <img src="{{asset("style/img/comb1.jpg")}}"
+                <img src="{{asset("style/img/reseau-renov-comble-1.jpg")}}"
                      style="width: 100%;border-bottom-left-radius: 15px;border-bottom-right-radius: 15px;">
             </div>
             <div class="col-lg-3 col-sm-12 mt-2">
-                <img src="{{asset("style/img/comb3.jpg")}}"
+                <img src="{{asset("style/img/reseau-renov-comble-3.jpg")}}"
                      style="width: 100%;border-bottom-left-radius: 15px;border-bottom-right-radius: 15px;">
             </div>
         </div>
@@ -62,15 +62,15 @@
         </div>
         <div class="row">
             <div class="col-lg-3 col-sm-12 offset-lg-1 mt-2">
-                <img src="{{asset("style/img/rock2.png")}}"
+                <img src="{{asset("style/img/reseau-renov-rockwool-2.png")}}"
                      style="width: 100%;border-bottom-left-radius: 15px;border-bottom-right-radius: 15px;">
             </div>
             <div class="col-lg-3 col-sm-12  mt-2">
-                <img src="{{asset("style/img/rock3.jpg")}}"
+                <img src="{{asset("style/img/reseau-renov-rockwool-3.jpg")}}"
                      style="width: 100%;border-bottom-left-radius: 15px;border-bottom-right-radius: 15px;">
             </div>
             <div class="col-lg-3 col-sm-12 mt-2">
-                <img src="{{asset("style/img/rock1.jpg")}}"
+                <img src="{{asset("style/img/reseau-renov-rockwool-1.jpg")}}"
                      style="width: 100%;border-bottom-left-radius: 15px;border-bottom-right-radius: 15px;">
             </div>
 

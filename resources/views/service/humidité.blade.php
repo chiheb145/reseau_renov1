@@ -17,8 +17,8 @@
         </div>
         <div class="row justify-content-center mt-5">
             <div class="col-lg-4 col-sm-12">
-                <p>Solution aqueuse destinée à l'assèchement des murs.</p>
-                <img src="{{asset("style/img/humi.jpg")}}" style="width: 90%;border-bottom-left-radius: 15px;border-bottom-right-radius:15px;">
+                <p>Solution aqueuse destinée à l'<b>assèchement</b> des murs.</p>
+                <img src="{{asset("style/img/reseau-renov-humidite-1.jpg")}}" style="width: 90%;border-bottom-left-radius: 15px;border-bottom-right-radius:15px;">
             </div>
             <div class="col-lg-5 col-sm-12"><br>
 
@@ -34,13 +34,13 @@
             </div>
             <div class="col-lg-5 col-sm-12"><br>
 
-                <img src="{{asset("style/img/humi1.png")}}" style="width: 90%;border-bottom-left-radius: 15px;border-bottom-right-radius:15px;"  >
+                <img src="{{asset("style/img/reseau-renov-humidite-2.png")}}" style="width: 90%;border-bottom-left-radius: 15px;border-bottom-right-radius:15px;"  >
             </div>
 
         </div>
         <div class="row justify-content-center mt-5">
             <div class="col-lg-4 col-sm-12">
-                <img src="{{asset("style/img/humid3.jpg")}}" style="width: 90%;
+                <img src="{{asset("style/img/reseau-renov-humidite-3.jpg")}}" style="width: 90%;
     border-bottom-left-radius: 15px;
     border-bottom-right-radius: 15px;
     height: 264px;">
